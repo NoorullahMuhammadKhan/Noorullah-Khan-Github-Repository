@@ -1,0 +1,1001 @@
+TimeAsCustomer,DriverAge,InsuranceAccess,InsurancePremium,DriverGender,EducationLevel,AccidentType,IncidentSeverity,AuthoritiesInvolved,IncidentTime,NumVehiclesInvolved,NumBodilyInjuries,PoliceReportBool,TotalClaimAmount,VehicleYear,Fraud,VehicleAge,DriverExperience,LicenceType
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,0.0,37840.0,1996.0,0.0,19.0,20.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,-0.0,51660.0,2010.0,-0.0,5.0,7.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,-0.0,13.0,22.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+8.0,35.0,2000.0,1267.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,-0.0,14.0,30.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,0.0,51120.0,2005.0,0.0,10.0,13.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+269.0,44.0,2000.0,1081.0,-0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,-0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,-0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+237.0,40.0,1000.0,883.0,0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,-0.0,77880.0,2005.0,0.0,10.0,24.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,-0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,0.0,19.0,20.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+202.0,34.0,500.0,848.0,0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+202.0,34.0,500.0,848.0,0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+228.0,44.0,1000.0,1584.0,-0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,-0.0,14.0,30.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+269.0,44.0,2000.0,1081.0,0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,0.0,0.0,56400.0,2014.0,0.0,1.0,27.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,0.0,0.0,75600.0,2005.0,0.0,10.0,4.0,P2
+137.0,34.0,1000.0,1333.0,-0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,-0.0,0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+237.0,40.0,1000.0,883.0,-0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,-0.0,77880.0,2005.0,-0.0,10.0,24.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,0.0,29790.0,2008.0,-0.0,7.0,19.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,0.0,9.0,39.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,-0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+228.0,42.0,2000.0,1197.0,0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,-0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+202.0,34.0,500.0,848.0,0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,0.0,51660.0,2010.0,-0.0,5.0,7.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,-0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,0.0,3.0,0.0,-0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+228.0,44.0,1000.0,1584.0,-0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,0.0,0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,0.0,60400.0,2014.0,0.0,1.0,23.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,-0.0,-0.0,76600.0,2000.0,0.0,15.0,16.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,0.0,29790.0,2008.0,0.0,7.0,19.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,0.0,19.0,20.0,Full
+137.0,34.0,1000.0,1333.0,-0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,-0.0,0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+202.0,34.0,500.0,848.0,-0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+149.0,37.0,500.0,1416.0,0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,-0.0,51660.0,2010.0,0.0,5.0,7.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,-0.0,0.0,76600.0,2000.0,-0.0,15.0,16.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+114.0,30.0,1000.0,1558.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,-0.0,77110.0,2015.0,-0.0,-0.0,12.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,0.0,6.0,24.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,-0.0,4.0,45.0,Full
+116.0,34.0,500.0,1738.0,0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+70.0,26.0,1000.0,1199.0,0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+79.0,26.0,500.0,1452.0,-0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,-0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,-0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+116.0,34.0,500.0,1738.0,0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+70.0,26.0,1000.0,1199.0,0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+64.0,25.0,1000.0,954.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,-0.0,75600.0,2005.0,-0.0,10.0,4.0,P2
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,0.0,56520.0,2000.0,-0.0,15.0,7.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,-0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+228.0,44.0,1000.0,1584.0,-0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,-0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+166.0,37.0,2000.0,1337.0,0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,-0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,0.0,51120.0,2005.0,0.0,10.0,13.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+212.0,42.0,500.0,1316.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,0.0,19.0,24.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,-0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,-0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,0.0,29790.0,2008.0,0.0,7.0,19.0,Full
+114.0,30.0,1000.0,1558.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,0.0,77110.0,2015.0,0.0,-0.0,12.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+413.0,55.0,2000.0,1269.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,-0.0,4.0,45.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,-0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+269.0,44.0,2000.0,1081.0,0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,-0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+212.0,42.0,500.0,1316.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,-0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,-0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,0.0,0.0,9.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,-0.0,0.0,15.0,Full
+79.0,26.0,500.0,1452.0,-0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,-0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+228.0,44.0,1000.0,1584.0,-0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,-0.0,0.0,18.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,0.0,6.0,24.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,0.0,-0.0,9.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,-0.0,6.0,24.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,-0.0,6.0,24.0,Full
+137.0,34.0,1000.0,1333.0,-0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,-0.0,-0.0,78650.0,2012.0,-0.0,3.0,17.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+413.0,55.0,2000.0,1269.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+269.0,44.0,2000.0,1081.0,0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+166.0,37.0,2000.0,1337.0,0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,-0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,0.0,-0.0,75600.0,2005.0,0.0,10.0,4.0,P2
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+70.0,26.0,1000.0,1199.0,0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,-0.0,5.0,18.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+228.0,42.0,2000.0,1197.0,0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+228.0,42.0,2000.0,1197.0,0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+149.0,37.0,500.0,1416.0,0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,0.0,3.0,0.0,-0.0,78650.0,2012.0,-0.0,3.0,17.0,Full
+149.0,37.0,500.0,1416.0,0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+149.0,37.0,500.0,1416.0,0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+149.0,37.0,500.0,1416.0,0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+202.0,34.0,500.0,848.0,-0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+269.0,44.0,2000.0,1081.0,0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,-0.0,18.0,Full
+237.0,40.0,1000.0,883.0,0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,-0.0,77880.0,2005.0,0.0,10.0,24.0,Full
+237.0,40.0,1000.0,883.0,-0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,-0.0,77880.0,2005.0,0.0,10.0,24.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,0.0,3.0,0.0,0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,0.0,4.0,26.0,Full
+269.0,44.0,2000.0,1081.0,0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,0.0,-0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+370.0,55.0,2000.0,972.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,-0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+114.0,30.0,1000.0,1558.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,-0.0,77110.0,2015.0,0.0,-0.0,12.0,Full
+237.0,40.0,1000.0,883.0,-0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,0.0,77880.0,2005.0,-0.0,10.0,24.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,-0.0,42300.0,1996.0,0.0,19.0,24.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+8.0,35.0,2000.0,1267.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,0.0,-0.0,9.0,Full
+370.0,55.0,2000.0,972.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,0.0,0.0,9.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,-0.0,40000.0,2010.0,-0.0,5.0,7.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,0.0,18.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,-0.0,14.0,30.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,-0.0,5.0,18.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,0.0,3.0,-0.0,0.0,78650.0,2012.0,-0.0,3.0,17.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+370.0,55.0,2000.0,972.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+114.0,30.0,1000.0,1558.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,-0.0,77110.0,2015.0,-0.0,-0.0,12.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,-0.0,6.0,24.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,-0.0,7.0,19.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,0.0,75600.0,2005.0,0.0,10.0,4.0,P2
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+8.0,35.0,2000.0,1267.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+165.0,37.0,1000.0,1137.0,0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,-0.0,0.0,18.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,-0.0,34650.0,2007.0,0.0,8.0,13.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,-0.0,0.0,76600.0,2000.0,0.0,15.0,16.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,-0.0,-0.0,15.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,-0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,0.0,-0.0,76600.0,2000.0,0.0,15.0,16.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,-0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+8.0,35.0,2000.0,1267.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,-0.0,13.0,22.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,-0.0,72930.0,2015.0,0.0,-0.0,15.0,Full
+413.0,55.0,2000.0,1269.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,-0.0,40000.0,2010.0,-0.0,5.0,7.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,0.0,51660.0,2010.0,0.0,5.0,7.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+64.0,25.0,1000.0,954.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,0.0,75600.0,2005.0,-0.0,10.0,4.0,P2
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,-0.0,72930.0,2015.0,-0.0,0.0,15.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+165.0,37.0,1000.0,1137.0,0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,-0.0,18.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,-0.0,-0.0,18.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,-0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+202.0,34.0,500.0,848.0,-0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,0.0,0.0,76600.0,2000.0,-0.0,15.0,16.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,-0.0,0.0,18.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+237.0,40.0,1000.0,883.0,-0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,0.0,77880.0,2005.0,0.0,10.0,24.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+137.0,34.0,1000.0,1333.0,-0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,-0.0,0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,0.0,-0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,0.0,-0.0,75600.0,2005.0,-0.0,10.0,4.0,P2
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,0.0,87010.0,2002.0,-0.0,13.0,22.0,Full
+269.0,44.0,2000.0,1081.0,-0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,0.0,19.0,20.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,0.0,34650.0,2007.0,-0.0,8.0,13.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,0.0,-0.0,9.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,-0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,-0.0,72930.0,2015.0,0.0,0.0,15.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,0.0,14.0,30.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,0.0,34650.0,2007.0,0.0,8.0,13.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,0.0,7.0,19.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,-0.0,13.0,22.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+8.0,35.0,2000.0,1267.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,0.0,19.0,24.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+202.0,34.0,500.0,848.0,-0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,-0.0,-0.0,15.0,Full
+228.0,42.0,2000.0,1197.0,0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+228.0,44.0,1000.0,1584.0,-0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,-0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,-0.0,6.0,24.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,0.0,6.0,24.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,0.0,87010.0,2002.0,-0.0,13.0,22.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,0.0,0.0,9.0,Full
+370.0,55.0,2000.0,972.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,0.0,9.0,39.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,0.0,0.0,15.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,-0.0,14.0,30.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,-0.0,5.0,18.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,-0.0,-0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,0.0,29790.0,2008.0,0.0,7.0,19.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,-0.0,0.0,15.0,Full
+116.0,34.0,500.0,1738.0,0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,0.0,6.0,24.0,Full
+114.0,30.0,1000.0,1558.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,0.0,77110.0,2015.0,-0.0,0.0,12.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,-0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,-0.0,0.0,9.0,Full
+202.0,34.0,500.0,848.0,-0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+70.0,26.0,1000.0,1199.0,0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+228.0,44.0,1000.0,1584.0,-0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+212.0,42.0,500.0,1316.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,0.0,0.0,76600.0,2000.0,0.0,15.0,16.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,0.0,9.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,0.0,14.0,30.0,Full
+237.0,40.0,1000.0,883.0,0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,0.0,77880.0,2005.0,0.0,10.0,24.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,-0.0,51660.0,2010.0,-0.0,5.0,7.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,-0.0,7.0,19.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+237.0,40.0,1000.0,883.0,-0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,-0.0,77880.0,2005.0,-0.0,10.0,24.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,-0.0,56520.0,2000.0,-0.0,15.0,7.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,-0.0,5.0,18.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,0.0,18.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,0.0,9.0,39.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,0.0,34650.0,2007.0,-0.0,8.0,13.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,-0.0,75600.0,2005.0,0.0,10.0,4.0,P2
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,0.0,34650.0,2007.0,-0.0,8.0,13.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,-0.0,0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,-0.0,-0.0,15.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,-0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+166.0,37.0,2000.0,1337.0,0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,-0.0,5.0,18.0,Full
+116.0,34.0,500.0,1738.0,0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,0.0,0.0,75600.0,2005.0,0.0,10.0,4.0,P2
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,-0.0,51660.0,2010.0,0.0,5.0,7.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,0.0,4.0,26.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,-0.0,42300.0,1996.0,0.0,19.0,24.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+228.0,44.0,1000.0,1584.0,-0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,0.0,-0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,0.0,0.0,9.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,-0.0,5.0,18.0,Full
+413.0,55.0,2000.0,1269.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,0.0,6.0,24.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,-0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+212.0,42.0,500.0,1316.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,-0.0,42300.0,1996.0,0.0,19.0,24.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,-0.0,56520.0,2000.0,-0.0,15.0,7.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,0.0,-0.0,15.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,0.0,-0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,-0.0,34650.0,2007.0,-0.0,8.0,13.0,Full
+202.0,34.0,500.0,848.0,0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,-0.0,0.0,76600.0,2000.0,-0.0,15.0,16.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,0.0,9.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,-0.0,72930.0,2015.0,0.0,0.0,15.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+116.0,34.0,500.0,1738.0,0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,-0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+116.0,34.0,500.0,1738.0,0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,0.0,-0.0,76600.0,2000.0,0.0,15.0,16.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,0.0,4.0,26.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,0.0,40000.0,2010.0,-0.0,5.0,7.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+269.0,44.0,2000.0,1081.0,-0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,-0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,0.0,7.0,19.0,Full
+228.0,42.0,2000.0,1197.0,0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+202.0,34.0,500.0,848.0,0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,0.0,51660.0,2010.0,0.0,5.0,7.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,0.0,60400.0,2014.0,-0.0,1.0,23.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,-0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+116.0,34.0,500.0,1738.0,0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,-0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,-0.0,4.0,45.0,Full
+8.0,35.0,2000.0,1267.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,-0.0,7.0,19.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,-0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,-0.0,0.0,9.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,0.0,51660.0,2010.0,-0.0,5.0,7.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,0.0,51660.0,2010.0,0.0,5.0,7.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+114.0,30.0,1000.0,1558.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,-0.0,77110.0,2015.0,-0.0,-0.0,12.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,0.0,-0.0,75600.0,2005.0,-0.0,10.0,4.0,P2
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,0.0,34650.0,2007.0,-0.0,8.0,13.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,0.0,18.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,-0.0,7.0,19.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,-0.0,72930.0,2015.0,0.0,-0.0,15.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,0.0,-0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,0.0,75600.0,2005.0,0.0,10.0,4.0,P2
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,0.0,51660.0,2010.0,0.0,5.0,7.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,0.0,9.0,39.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,-0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,-0.0,-0.0,78650.0,2012.0,-0.0,3.0,17.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,0.0,14.0,30.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,-0.0,0.0,18.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,-0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+60.0,23.0,500.0,1215.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,-0.0,0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+237.0,40.0,1000.0,883.0,-0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,0.0,77880.0,2005.0,-0.0,10.0,24.0,Full
+149.0,37.0,500.0,1416.0,0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,-0.0,40000.0,2010.0,-0.0,5.0,7.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+269.0,44.0,2000.0,1081.0,-0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,0.0,56400.0,2014.0,0.0,1.0,27.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,-0.0,-0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,0.0,4.0,26.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,0.0,-0.0,9.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,-0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,0.0,29790.0,2008.0,0.0,7.0,19.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,-0.0,34650.0,2007.0,-0.0,8.0,13.0,Full
+202.0,34.0,500.0,848.0,0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+137.0,34.0,1000.0,1333.0,-0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,-0.0,-0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+149.0,37.0,500.0,1416.0,0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,0.0,18.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,-0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+237.0,40.0,1000.0,883.0,0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,-0.0,77880.0,2005.0,-0.0,10.0,24.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+60.0,23.0,500.0,1215.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,-0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,-0.0,56520.0,2000.0,-0.0,15.0,7.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,-0.0,6.0,24.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,-0.0,-0.0,76600.0,2000.0,-0.0,15.0,16.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,-0.0,0.0,15.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,-0.0,6.0,24.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,-0.0,0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,0.0,60400.0,2014.0,0.0,1.0,23.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,-0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,-0.0,56520.0,2000.0,-0.0,15.0,7.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,-0.0,4.0,45.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+202.0,34.0,500.0,848.0,0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,-0.0,42300.0,1996.0,0.0,19.0,24.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,-0.0,5.0,18.0,Full
+269.0,44.0,2000.0,1081.0,-0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,0.0,0.0,56400.0,2014.0,0.0,1.0,27.0,Full
+165.0,37.0,1000.0,1137.0,0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,0.0,18.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+370.0,55.0,2000.0,972.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+114.0,30.0,1000.0,1558.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,0.0,77110.0,2015.0,0.0,-0.0,12.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,-0.0,4.0,45.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+70.0,26.0,1000.0,1199.0,0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+114.0,30.0,1000.0,1558.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,-0.0,77110.0,2015.0,0.0,-0.0,12.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,0.0,6.0,24.0,Full
+166.0,37.0,2000.0,1337.0,0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,-0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+64.0,25.0,1000.0,954.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,0.0,0.0,75600.0,2005.0,-0.0,10.0,4.0,P2
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,0.0,19.0,20.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,-0.0,72930.0,2015.0,0.0,0.0,15.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,0.0,0.0,76600.0,2000.0,0.0,15.0,16.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,0.0,0.0,15.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,-0.0,75600.0,2005.0,0.0,10.0,4.0,P2
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,0.0,0.0,9.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+237.0,40.0,1000.0,883.0,0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,0.0,77880.0,2005.0,-0.0,10.0,24.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,-0.0,34650.0,2007.0,0.0,8.0,13.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,-0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,0.0,14.0,30.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,-0.0,34650.0,2007.0,0.0,8.0,13.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,-0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+269.0,44.0,2000.0,1081.0,-0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,0.0,-0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,0.0,4.0,26.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,0.0,3.0,0.0,0.0,78650.0,2012.0,-0.0,3.0,17.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+166.0,37.0,2000.0,1337.0,0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,0.0,0.0,9.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,0.0,-0.0,9.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,0.0,19.0,20.0,Full
+8.0,35.0,2000.0,1267.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+165.0,37.0,1000.0,1137.0,0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,-0.0,0.0,18.0,Full
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,0.0,47160.0,2011.0,-0.0,4.0,45.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,0.0,4.0,26.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,-0.0,51660.0,2010.0,-0.0,5.0,7.0,Full
+202.0,34.0,500.0,848.0,-0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,-0.0,0.0,18.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+64.0,25.0,1000.0,954.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,0.0,75600.0,2005.0,-0.0,10.0,4.0,P2
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,0.0,14.0,30.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,-0.0,14.0,30.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,0.0,7.0,19.0,Full
+137.0,34.0,1000.0,1333.0,-0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,0.0,3.0,0.0,0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+269.0,44.0,2000.0,1081.0,-0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,-0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+114.0,30.0,1000.0,1558.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,-0.0,77110.0,2015.0,0.0,-0.0,12.0,Full
+60.0,23.0,500.0,1215.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,-0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,-0.0,40000.0,2010.0,-0.0,5.0,7.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+64.0,25.0,1000.0,954.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,0.0,75600.0,2005.0,-0.0,10.0,4.0,P2
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,-0.0,20.0,14.0,Full
+212.0,42.0,500.0,1316.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,0.0,19.0,24.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+64.0,25.0,1000.0,954.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,0.0,75600.0,2005.0,0.0,10.0,4.0,P2
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,0.0,60400.0,2014.0,-0.0,1.0,23.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,0.0,0.0,76600.0,2000.0,-0.0,15.0,16.0,Full
+114.0,30.0,1000.0,1558.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,0.0,77110.0,2015.0,0.0,0.0,12.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+64.0,25.0,1000.0,954.0,0.0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22.0,4.0,-0.0,-0.0,75600.0,2005.0,-0.0,10.0,4.0,P2
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,0.0,4.0,26.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,-0.0,0.0,9.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,0.0,9.0,39.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,0.0,14.0,30.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,0.0,9.0,39.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,-0.0,-0.0,76600.0,2000.0,0.0,15.0,16.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,0.0,60400.0,2014.0,0.0,1.0,23.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,0.0,3.0,-0.0,0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+228.0,44.0,1000.0,1584.0,-0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,0.0,-0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,0.0,9.0,39.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,0.0,10.0,13.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,0.0,-0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,0.0,19.0,20.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,-0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,-0.0,-0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,0.0,0.0,76600.0,2000.0,0.0,15.0,16.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,-0.0,6500.0,2009.0,0.0,6.0,25.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,0.0,3.0,0.0,-0.0,78650.0,2012.0,0.0,3.0,17.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+79.0,26.0,500.0,1452.0,0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+212.0,42.0,500.0,1316.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,-0.0,42300.0,1996.0,0.0,19.0,24.0,Full
+114.0,30.0,1000.0,1558.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,-0.0,77110.0,2015.0,-0.0,-0.0,12.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,-0.0,34650.0,2007.0,0.0,8.0,13.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,-0.0,1.0,17.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+228.0,42.0,2000.0,1197.0,0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,-0.0,-0.0,15.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,0.0,9.0,39.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+166.0,37.0,2000.0,1337.0,0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,-0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+114.0,30.0,1000.0,1558.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,0.0,77110.0,2015.0,-0.0,0.0,12.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,0.0,34650.0,2007.0,-0.0,8.0,13.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+269.0,44.0,2000.0,1081.0,-0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,-0.0,56400.0,2014.0,0.0,1.0,27.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+8.0,35.0,2000.0,1267.0,-0.0,Masters,Multi-vehicle Collision,Major Damage,Other,16.0,3.0,1.0,1.0,71500.0,2006.0,1.0,9.0,18.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,0.0,9.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+370.0,55.0,2000.0,972.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,0.0,10.0,13.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,0.0,9.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,0.0,87010.0,2002.0,-0.0,13.0,22.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,-0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,0.0,51660.0,2010.0,-0.0,5.0,7.0,Full
+70.0,26.0,1000.0,1199.0,0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,-0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,0.0,-0.0,76600.0,2000.0,-0.0,15.0,16.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,-0.0,60400.0,2014.0,-0.0,1.0,23.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,-0.0,7.0,19.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+212.0,42.0,500.0,1316.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,0.0,19.0,24.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,-0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,-0.0,0.0,9.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,0.0,7.0,19.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,0.0,4.0,26.0,Full
+413.0,55.0,2000.0,1269.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+237.0,40.0,1000.0,883.0,0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,0.0,77880.0,2005.0,-0.0,10.0,24.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,-0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+228.0,42.0,2000.0,1197.0,0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,-0.0,60400.0,2014.0,0.0,1.0,23.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,-0.0,0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,-0.0,51660.0,2010.0,-0.0,5.0,7.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+355.0,47.0,2000.0,1274.0,0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,-0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+165.0,37.0,1000.0,1137.0,0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,-0.0,-0.0,18.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,0.0,87010.0,2002.0,0.0,13.0,22.0,Full
+79.0,26.0,500.0,1452.0,-0.0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19.0,1.0,2.0,0.0,40000.0,2010.0,0.0,5.0,7.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,-0.0,0.0,15.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,-0.0,29790.0,2008.0,-0.0,7.0,19.0,Full
+202.0,34.0,500.0,848.0,0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+237.0,40.0,1000.0,883.0,0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,0.0,77880.0,2005.0,0.0,10.0,24.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,-0.0,91650.0,2011.0,0.0,4.0,26.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+116.0,34.0,500.0,1738.0,0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+237.0,40.0,1000.0,883.0,-0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,0.0,77880.0,2005.0,0.0,10.0,24.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+237.0,40.0,1000.0,883.0,-0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,-0.0,77880.0,2005.0,-0.0,10.0,24.0,Full
+460.0,62.0,1000.0,1188.0,-0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,-0.0,47160.0,2011.0,-0.0,4.0,45.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,0.0,3.0,9.0,Full
+370.0,55.0,2000.0,972.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20.0,3.0,-0.0,1.0,71520.0,2000.0,1.0,15.0,38.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,0.0,51660.0,2010.0,0.0,5.0,7.0,Full
+165.0,37.0,1000.0,1137.0,0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,-0.0,18.0,Full
+413.0,55.0,2000.0,1269.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,0.0,51120.0,2005.0,0.0,10.0,13.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+212.0,42.0,500.0,1316.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,-0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,0.0,34650.0,2007.0,-0.0,8.0,13.0,Full
+228.0,42.0,2000.0,1197.0,-0.0,MD,Vehicle Theft,Minor Damage,Police,8.0,1.0,-0.0,-0.0,5070.0,2007.0,1.0,8.0,21.0,Full
+460.0,62.0,1000.0,1188.0,0.0,JD,Multi-vehicle Collision,Minor Damage,Police,20.0,3.0,1.0,0.0,47160.0,2011.0,0.0,4.0,45.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+241.0,45.0,2000.0,1105.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,0.0,6.0,24.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+289.0,49.0,2000.0,1222.0,1.0,JD,Parked Car,Minor Damage,,16.0,1.0,1.0,1.0,5330.0,2001.0,-0.0,14.0,30.0,Full
+237.0,40.0,1000.0,883.0,-0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,-0.0,77880.0,2005.0,0.0,10.0,24.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,0.0,13.0,23.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+256.0,41.0,2000.0,1416.0,1.0,PhD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,0.0,63400.0,2014.0,1.0,1.0,22.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,-0.0,10.0,13.0,Full
+328.0,48.0,1000.0,1407.0,0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,-0.0,5.0,18.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,0.0,34650.0,2007.0,-0.0,8.0,13.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,0.0,-0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+163.0,33.0,500.0,1240.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Fire,11.0,3.0,1.0,-0.0,77110.0,2014.0,0.0,1.0,17.0,Full
+160.0,37.0,500.0,1374.0,1.0,MD,Single Vehicle Collision,Total Loss,Other,19.0,1.0,1.0,0.0,72930.0,2015.0,0.0,0.0,15.0,Full
+328.0,48.0,1000.0,1407.0,-0.0,MD,Single Vehicle Collision,Major Damage,Police,5.0,1.0,1.0,1.0,71610.0,2004.0,1.0,11.0,28.0,Full
+70.0,26.0,1000.0,1199.0,-0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+149.0,37.0,500.0,1416.0,0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+70.0,26.0,1000.0,1199.0,0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+269.0,44.0,2000.0,1081.0,-0.0,JD,Single Vehicle Collision,Minor Damage,Other,14.0,1.0,-0.0,0.0,56400.0,2014.0,-0.0,1.0,27.0,Full
+134.0,29.0,2000.0,1413.0,1.0,PhD,Multi-vehicle Collision,Minor Damage,Police,7.0,3.0,2.0,-0.0,34650.0,2007.0,0.0,8.0,13.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+265.0,40.0,1000.0,1454.0,1.0,MD,Multi-vehicle Collision,Total Loss,Other,17.0,3.0,2.0,-0.0,55120.0,2002.0,-0.0,13.0,23.0,Full
+192.0,35.0,1000.0,1246.0,1.0,Masters,Single Vehicle Collision,Total Loss,Other,19.0,1.0,-0.0,0.0,76600.0,2000.0,-0.0,15.0,16.0,Full
+140.0,31.0,500.0,709.0,-0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,-0.0,1.0,77880.0,2015.0,-0.0,-0.0,9.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,0.0,62300.0,2007.0,0.0,8.0,33.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,0.0,18.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,-0.0,6.0,24.0,Full
+241.0,45.0,2000.0,1104.0,1.0,PhD,Single Vehicle Collision,Minor Damage,Police,5.0,1.0,2.0,0.0,91650.0,2011.0,-0.0,4.0,26.0,Full
+137.0,34.0,1000.0,1333.0,0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,-0.0,3.0,0.0,0.0,78650.0,2012.0,-0.0,3.0,17.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+237.0,40.0,1000.0,883.0,0.0,College,Single Vehicle Collision,Minor Damage,Other,6.0,1.0,1.0,-0.0,77880.0,2005.0,0.0,10.0,24.0,Full
+431.0,54.0,2000.0,1156.0,1.0,MD,Multi-vehicle Collision,Major Damage,Police,4.0,3.0,2.0,-0.0,62300.0,2007.0,-0.0,8.0,33.0,Full
+37.0,23.0,500.0,1476.0,1.0,College,Multi-vehicle Collision,Minor Damage,Other,17.0,3.0,1.0,0.0,51660.0,2010.0,-0.0,5.0,7.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+166.0,37.0,2000.0,1337.0,-0.0,JD,Multi-vehicle Collision,Major Damage,Police,10.0,3.0,2.0,0.0,67140.0,2006.0,1.0,9.0,15.0,Full
+114.0,30.0,1000.0,1558.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,-0.0,77110.0,2015.0,-0.0,-0.0,12.0,Full
+116.0,34.0,500.0,1738.0,0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+202.0,34.0,500.0,848.0,-0.0,JD,Vehicle Theft,Minor Damage,,5.0,1.0,2.0,-0.0,5720.0,2003.0,1.0,12.0,15.0,Full
+413.0,55.0,2000.0,1269.0,-0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,-0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+473.0,58.0,2000.0,1131.0,1.0,MD,Multi-vehicle Collision,Major Damage,Other,12.0,4.0,-0.0,0.0,63120.0,1999.0,1.0,16.0,40.0,Full
+413.0,55.0,2000.0,1269.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,15.0,1.0,2.0,0.0,98160.0,2011.0,1.0,4.0,34.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,-0.0,7280.0,2010.0,-0.0,5.0,18.0,Full
+114.0,30.0,1000.0,1558.0,-0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,0.0,77110.0,2015.0,-0.0,-0.0,12.0,Full
+257.0,43.0,2000.0,1322.0,-0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,0.0,10.0,23.0,Full
+60.0,23.0,500.0,1215.0,0.0,MD,Single Vehicle Collision,Total Loss,Ambulance,9.0,1.0,1.0,-0.0,56520.0,2000.0,0.0,15.0,7.0,Full
+137.0,34.0,1000.0,1333.0,-0.0,PhD,Multi-vehicle Collision,Minor Damage,Police,0.0,3.0,0.0,0.0,78650.0,2012.0,-0.0,3.0,17.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,0.0,3.0,12.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,-0.0,60400.0,2014.0,0.0,1.0,23.0,Full
+70.0,26.0,1000.0,1199.0,0.0,College,Multi-vehicle Collision,Major Damage,Other,0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+27.0,33.0,500.0,1443.0,1.0,PhD,Single Vehicle Collision,Total Loss,Police,21.0,1.0,1.0,1.0,27700.0,2012.0,-0.0,3.0,12.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,0.0,0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,-0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,-0.0,60400.0,2014.0,-0.0,1.0,23.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,0.0,16.0,18.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+199.0,37.0,500.0,1262.0,0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,-0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,-0.0,51120.0,2005.0,0.0,10.0,13.0,Full
+235.0,42.0,500.0,1253.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,22.0,1.0,2.0,-0.0,87010.0,2002.0,-0.0,13.0,22.0,Full
+147.0,33.0,1000.0,1334.0,0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+140.0,31.0,500.0,709.0,0.0,High School,Single Vehicle Collision,Total Loss,Police,9.0,1.0,0.0,1.0,77880.0,2015.0,-0.0,0.0,9.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,0.0,29790.0,2008.0,0.0,7.0,19.0,Full
+106.0,30.0,500.0,538.0,1.0,PhD,Single Vehicle Collision,Total Loss,Other,23.0,1.0,2.0,0.0,51120.0,2005.0,0.0,10.0,13.0,Full
+70.0,26.0,1000.0,1199.0,0.0,College,Multi-vehicle Collision,Major Damage,Other,-0.0,3.0,1.0,1.0,52110.0,2012.0,-0.0,3.0,9.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,-0.0,6.0,24.0,Full
+228.0,44.0,1000.0,1584.0,0.0,Associate,Vehicle Theft,Minor Damage,,20.0,1.0,-0.0,0.0,6500.0,2009.0,-0.0,6.0,25.0,Full
+196.0,39.0,2000.0,1476.0,1.0,High School,Multi-vehicle Collision,Major Damage,Police,8.0,3.0,2.0,0.0,60400.0,2014.0,0.0,1.0,23.0,Full
+149.0,37.0,500.0,1416.0,-0.0,PhD,Single Vehicle Collision,Total Loss,Fire,17.0,1.0,-0.0,1.0,64800.0,1999.0,-0.0,16.0,18.0,Full
+62.0,28.0,1000.0,988.0,1.0,Masters,Single Vehicle Collision,Total Loss,Police,3.0,1.0,1.0,1.0,60200.0,2004.0,1.0,11.0,11.0,Full
+355.0,47.0,2000.0,1274.0,-0.0,College,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,2.0,0.0,62800.0,2003.0,1.0,12.0,29.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+212.0,42.0,500.0,1316.0,0.0,PhD,Single Vehicle Collision,Total Loss,Other,14.0,1.0,2.0,0.0,42300.0,1996.0,-0.0,19.0,24.0,Full
+224.0,40.0,2000.0,1292.0,1.0,JD,Single Vehicle Collision,Minor Damage,Other,21.0,1.0,1.0,1.0,69840.0,2009.0,0.0,6.0,24.0,Full
+165.0,37.0,1000.0,1137.0,-0.0,Associate,Multi-vehicle Collision,Total Loss,Police,23.0,3.0,2.0,1.0,51590.0,2015.0,0.0,-0.0,18.0,Full
+114.0,30.0,1000.0,1558.0,0.0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1.0,3.0,1.0,-0.0,77110.0,2015.0,-0.0,0.0,12.0,Full
+199.0,37.0,500.0,1262.0,-0.0,JD,Single Vehicle Collision,Major Damage,Ambulance,4.0,1.0,0.0,0.0,60170.0,2011.0,1.0,4.0,18.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+155.0,35.0,1000.0,1088.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,16.0,3.0,2.0,0.0,29790.0,2008.0,-0.0,7.0,19.0,Full
+180.0,38.0,2000.0,1301.0,1.0,College,Single Vehicle Collision,Total Loss,Police,12.0,1.0,0.0,1.0,46200.0,2003.0,1.0,12.0,18.0,Full
+217.0,41.0,2000.0,875.0,1.0,Associate,Multi-vehicle Collision,Total Loss,Police,15.0,3.0,1.0,-0.0,37840.0,1996.0,-0.0,19.0,20.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full
+121.0,34.0,1000.0,937.0,1.0,MD,Parked Car,Minor Damage,,5.0,1.0,1.0,-0.0,7280.0,2010.0,0.0,5.0,18.0,Full
+116.0,34.0,500.0,1738.0,-0.0,Associate,Single Vehicle Collision,Major Damage,Police,1.0,1.0,1.0,-0.0,97080.0,2001.0,1.0,14.0,12.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+256.0,39.0,1000.0,1351.0,1.0,PhD,Multi-vehicle Collision,Major Damage,Fire,19.0,3.0,-0.0,0.0,64100.0,2003.0,1.0,12.0,20.0,Full
+257.0,43.0,2000.0,1322.0,0.0,High School,Parked Car,Minor Damage,Police,4.0,1.0,1.0,1.0,9020.0,2005.0,-0.0,10.0,23.0,Full
+175.0,34.0,1000.0,1124.0,1.0,PhD,Vehicle Theft,Trivial Damage,Police,5.0,1.0,2.0,1.0,7290.0,1995.0,0.0,20.0,14.0,Full
+147.0,33.0,1000.0,1334.0,-0.0,High School,Single Vehicle Collision,Major Damage,Other,15.0,1.0,2.0,1.0,53100.0,1995.0,1.0,20.0,17.0,Full
+447.0,61.0,2000.0,1137.0,1.0,High School,Multi-vehicle Collision,Major Damage,Fire,21.0,3.0,1.0,1.0,114920.0,2006.0,-0.0,9.0,39.0,Full

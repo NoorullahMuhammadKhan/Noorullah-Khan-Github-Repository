@@ -1,0 +1,5 @@
+Significant correlations (absolute value > 0.7):
+DriverAge         DriverExperience       0.977227
+TimeAsCustomer    DriverAge              0.922098
+DriverExperience  TimeAsCustomer         0.899903
+AccidentType      NumVehiclesInvolved   -0.893274

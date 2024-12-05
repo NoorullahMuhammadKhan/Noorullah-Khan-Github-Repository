@@ -1,0 +1,1575 @@
+InsurancePremium,TotalClaimAmount,DriverAge,TimeAsCustomer,EducationLevel,ClaimStaus,IncidentSeverity,AuthoritiesInvolved,NumBodilyInjuries,PoliceReportBool,IncidentTime
+83.77,8000,35,97,High School,A,Total Loss,Police,0,1,10
+82.14,5000,27,118,Bachelor,A,Major Loss,Police,0,1,22
+101.15,8000,42,39,High School,D,Major Loss,Ambulance,1,1,3
+128.73,9000,57,48,High School,A,Minor Loss,Police,0,1,22
+116.55,8000,45,69,High School,A,Total Loss,Ambulance,0,1,20
+89.11,2000,62,66,Masters,A,Minor Loss,Police,0,1,14
+117.72,7000,31,39,High School,D,Major Loss,Police,0,0,0
+116.99,10000,51,88,College,A,Minor Loss,Ambulance,0,0,13
+82.82,9000,43,34,College,A,Major Loss,Ambulance,0,0,21
+92.71,2000,47,102,High School,A,Total Loss,Police,1,1,7
+100.14,7000,33,36,High School,A,Major Loss,Police,1,1,15
+109.33,6000,50,69,Bachelor,A,Total Loss,None,1,1,0
+126.63,1000,34,35,Bachelor,A,Major Loss,Police,0,1,9
+82.0,10000,61,21,College,A,Minor Loss,None,0,1,4
+116.8,9000,55,64,MD,A,Total Loss,Ambulance,0,1,13
+136.47,1000,50,114,Bachelor,A,Total Loss,Ambulance,0,1,23
+127.87,7000,39,72,MD,A,Total Loss,None,1,1,8
+134.55,6000,57,51,High School,A,Major Loss,Ambulance,1,1,0
+107.72,3000,62,27,Masters,A,Total Loss,Police,0,1,12
+111.08,5000,41,119,Bachelor,A,Minor Loss,Other,0,0,23
+91.56,5000,30,41,PhD,A,Minor Loss,None,1,1,9
+129.58,4000,39,93,High School,A,Minor Loss,Police,1,1,5
+80.73,4000,49,9,Bachelor,A,Minor Loss,Police,0,1,16
+110.4,1000,35,88,Bachelor,A,Minor Loss,Ambulance,0,1,6
+112.42,4000,33,14,High School,A,Total Loss,None,0,1,1
+71.18,7000,27,21,High School,A,Minor Loss,Other,1,0,6
+78.65,3000,41,14,Bachelor,A,Total Loss,Other,1,0,10
+95.58,5000,59,77,MD,A,Major Loss,None,0,0,11
+92.14,1000,32,22,MD,A,Major Loss,Other,1,1,7
+136.01,5000,37,88,PhD,A,Major Loss,Other,0,1,15
+123.3,1000,54,31,Bachelor,A,Total Loss,Ambulance,0,1,7
+90.32,5000,26,106,Bachelor,A,Total Loss,Other,1,1,0
+74.82,6000,35,50,Bachelor,D,Minor Loss,None,0,1,2
+70.94,4000,50,95,PhD,A,Total Loss,Ambulance,0,1,10
+106.17,2000,29,30,High School,A,Minor Loss,None,1,1,23
+73.44,1000,57,95,Bachelor,A,Major Loss,Ambulance,1,1,18
+129.97,4000,39,17,High School,D,Major Loss,Other,0,1,6
+134.18,4000,31,7,MD,A,Minor Loss,Police,1,1,1
+134.54,6000,36,38,High School,A,Total Loss,Police,1,0,1
+93.9,2000,64,117,High School,A,Major Loss,Police,0,1,3
+115.54,5000,29,117,Masters,A,Total Loss,Ambulance,1,0,5
+103.16,3000,62,115,High School,A,Minor Loss,None,0,0,0
+124.6,5000,28,22,Bachelor,A,Total Loss,Other,0,1,22
+106.34,8000,37,74,Bachelor,D,Minor Loss,Other,0,1,3
+96.1,6000,28,80,High School,A,Minor Loss,None,1,0,12
+110.44,3000,42,67,Bachelor,A,Total Loss,Ambulance,1,1,19
+121.7,4000,46,101,Bachelor,A,Major Loss,Police,0,0,8
+114.12,5000,61,75,High School,A,Total Loss,Other,1,0,20
+104.64,8000,56,23,PhD,A,Total Loss,Ambulance,0,0,1
+97.13,6000,51,50,Bachelor,A,Major Loss,Other,0,0,12
+81.75,1000,33,72,Bachelor,A,Major Loss,Police,1,0,23
+90.83,4000,44,111,Masters,A,Major Loss,Police,1,0,14
+137.71,8000,63,64,High School,A,Major Loss,None,1,0,11
+87.64,10000,53,97,Bachelor,A,Total Loss,Ambulance,0,1,12
+108.84,4000,57,56,MD,A,Minor Loss,None,0,1,6
+104.97,1000,55,73,Masters,A,Minor Loss,Ambulance,1,1,21
+101.29,4000,40,32,High School,A,Major Loss,Police,1,1,9
+121.21,7000,29,71,Masters,A,Minor Loss,None,1,1,5
+126.97,5000,47,41,Masters,A,Major Loss,Ambulance,1,0,11
+104.23,1000,61,97,Masters,A,Total Loss,None,1,1,9
+104.1,6000,47,101,Masters,A,Minor Loss,Police,0,1,6
+139.24,4000,47,39,Bachelor,A,Minor Loss,Ambulance,1,1,1
+112.53,8000,28,17,High School,A,Total Loss,None,1,0,9
+113.33,2000,58,6,High School,A,Major Loss,Ambulance,1,1,15
+78.64,9000,46,23,Bachelor,A,Major Loss,None,1,0,14
+91.97,2000,61,38,Bachelor,A,Total Loss,Ambulance,0,1,11
+133.72,9000,54,89,High School,A,Major Loss,Ambulance,1,1,17
+91.89,6000,33,118,Bachelor,A,Total Loss,Ambulance,0,1,20
+116.49,8000,54,37,Bachelor,A,Major Loss,Ambulance,1,1,19
+77.08,7000,58,52,Bachelor,A,Minor Loss,Ambulance,1,1,17
+130.07,5000,54,50,Masters,A,Minor Loss,None,1,0,9
+99.6,4000,35,36,Bachelor,D,Total Loss,None,0,0,5
+120.59,8000,62,66,Bachelor,A,Total Loss,None,1,1,20
+135.75,8000,61,79,Bachelor,A,Major Loss,Ambulance,1,1,9
+132.19,4000,45,6,MD,A,Total Loss,Ambulance,1,1,22
+122.41,2000,59,116,Bachelor,A,Minor Loss,Ambulance,1,1,12
+80.18,10000,63,62,Bachelor,A,Total Loss,None,1,0,14
+138.39,8000,35,73,High School,A,Minor Loss,Other,1,1,2
+80.2,4000,57,38,Masters,A,Major Loss,Police,1,1,15
+76.06,2000,61,42,MD,A,Total Loss,Ambulance,1,1,13
+134.71,6000,45,100,Bachelor,A,Total Loss,Police,1,0,1
+98.63,8000,38,68,Bachelor,A,Total Loss,Police,0,1,4
+123.56,1000,37,67,College,D,Major Loss,Ambulance,0,0,5
+128.58,9000,38,108,Bachelor,A,Major Loss,Police,0,1,23
+133.61,3000,63,63,Masters,D,Minor Loss,Other,1,1,14
+73.34,1000,49,83,College,A,Minor Loss,Police,1,0,7
+129.38,2000,53,80,PhD,A,Major Loss,Ambulance,1,1,19
+131.11,5000,26,47,Bachelor,A,Total Loss,Police,1,1,4
+132.66,9000,55,23,High School,A,Total Loss,None,1,1,3
+81.46,8000,64,78,High School,A,Major Loss,Ambulance,1,1,18
+92.87,7000,50,30,Bachelor,A,Minor Loss,Ambulance,1,1,2
+130.13,10000,28,97,High School,A,Minor Loss,Other,1,1,17
+121.35,2000,31,25,Bachelor,A,Major Loss,Other,0,1,10
+73.93,5000,60,116,Bachelor,A,Minor Loss,Police,1,1,10
+102.16,7000,61,115,Bachelor,A,Major Loss,None,1,1,3
+80.5,3000,53,86,College,A,Minor Loss,None,0,1,1
+110.63,2000,43,31,Bachelor,A,Minor Loss,Ambulance,1,1,20
+73.78,1000,52,67,Bachelor,A,Minor Loss,Police,1,1,23
+85.44,6000,55,35,High School,A,Minor Loss,Police,1,1,17
+129.99,2000,63,60,Bachelor,A,Total Loss,Police,1,1,6
+105.45,4000,45,99,High School,D,Minor Loss,Police,1,1,11
+132.84,6000,61,42,Bachelor,A,Minor Loss,Ambulance,1,1,1
+133.58,5000,28,52,Bachelor,A,Minor Loss,Ambulance,0,0,19
+84.79,2000,40,94,High School,A,Total Loss,Other,1,0,17
+98.44,10000,47,83,High School,A,Major Loss,Other,1,1,9
+132.57,10000,40,109,Masters,A,Total Loss,Police,1,1,9
+90.73,10000,64,72,PhD,A,Total Loss,Other,1,1,17
+78.1,2000,28,18,Bachelor,A,Major Loss,Police,1,1,11
+134.59,1000,42,95,MD,D,Major Loss,Ambulance,1,1,18
+71.99,3000,31,82,Bachelor,D,Minor Loss,Ambulance,1,1,6
+76.06,3000,28,31,Bachelor,A,Total Loss,None,1,1,23
+91.03,10000,38,116,Bachelor,A,Major Loss,Ambulance,1,0,20
+127.92,10000,49,26,High School,A,Total Loss,Ambulance,0,1,8
+133.83,3000,46,94,PhD,A,Minor Loss,Ambulance,0,1,1
+72.26,9000,37,19,Bachelor,A,Major Loss,Ambulance,0,1,10
+80.48,2000,43,64,College,A,Major Loss,None,1,0,11
+94.8,6000,59,104,Masters,A,Total Loss,None,1,0,22
+82.03,6000,49,100,Bachelor,A,Major Loss,Police,1,1,9
+110.87,5000,51,65,High School,A,Major Loss,None,1,1,20
+112.49,1000,38,109,High School,A,Total Loss,Ambulance,1,1,18
+82.4,10000,56,22,High School,A,Minor Loss,Police,1,1,17
+84.81,8000,35,58,Bachelor,A,Minor Loss,None,0,1,23
+92.74,10000,63,87,High School,A,Major Loss,Other,1,0,4
+134.61,2000,44,115,Bachelor,A,Major Loss,Police,1,1,3
+127.69,1000,34,29,Bachelor,A,Total Loss,Ambulance,0,1,15
+80.54,8000,43,94,Bachelor,A,Major Loss,Ambulance,1,0,20
+123.91,5000,39,48,College,A,Total Loss,Police,1,0,8
+124.35,1000,53,19,Bachelor,A,Total Loss,Ambulance,1,1,14
+78.08,9000,30,67,MD,A,Minor Loss,None,1,0,3
+110.77,10000,47,109,Bachelor,A,Minor Loss,Police,1,1,12
+114.85,10000,52,49,High School,A,Minor Loss,Police,0,1,5
+79.81,7000,41,30,High School,A,Major Loss,Ambulance,1,1,12
+118.59,4000,35,22,High School,A,Total Loss,None,0,1,7
+111.52,2000,55,56,High School,A,Total Loss,None,1,1,14
+90.26,2000,27,51,High School,A,Major Loss,Ambulance,1,0,0
+101.39,6000,30,78,MD,A,Total Loss,Police,1,1,21
+110.79,8000,25,70,PhD,A,Total Loss,Ambulance,1,1,22
+123.86,2000,62,42,Bachelor,A,Minor Loss,Other,1,1,20
+105.28,7000,63,92,Bachelor,A,Minor Loss,Ambulance,0,0,5
+87.21,2000,44,61,Bachelor,A,Minor Loss,Ambulance,1,1,21
+86.55,8000,31,73,High School,A,Minor Loss,Other,1,0,23
+95.24,9000,58,9,Bachelor,A,Major Loss,Ambulance,0,0,19
+71.49,10000,31,105,High School,A,Major Loss,None,1,0,14
+116.98,9000,59,80,Bachelor,A,Major Loss,None,1,1,15
+116.63,6000,60,32,Bachelor,A,Minor Loss,Police,1,1,12
+105.82,2000,26,108,Bachelor,D,Minor Loss,Ambulance,0,0,16
+99.57,2000,44,31,PhD,A,Major Loss,Ambulance,1,1,17
+117.6,4000,49,33,Masters,A,Total Loss,Police,0,1,14
+108.7,8000,59,66,MD,A,Minor Loss,Police,1,1,5
+131.94,7000,52,10,High School,A,Minor Loss,Other,1,1,9
+127.6,3000,40,92,Masters,A,Minor Loss,Ambulance,0,1,1
+111.68,6000,32,69,Bachelor,A,Minor Loss,Police,1,1,22
+139.05,9000,44,66,High School,A,Major Loss,None,1,1,23
+82.24,10000,53,80,Bachelor,A,Minor Loss,Ambulance,1,0,9
+91.32,8000,28,29,Bachelor,A,Total Loss,Ambulance,1,1,23
+81.83,2000,55,30,High School,A,Minor Loss,Other,1,0,1
+100.93,3000,25,78,High School,A,Major Loss,Police,1,1,18
+105.1,6000,28,42,Bachelor,A,Major Loss,Ambulance,1,0,0
+110.57,8000,42,52,PhD,A,Major Loss,Ambulance,0,1,20
+80.13,7000,42,105,Bachelor,A,Total Loss,None,0,1,12
+125.61,7000,39,86,Bachelor,A,Total Loss,Police,1,0,5
+98.48,5000,43,55,Bachelor,A,Minor Loss,Police,0,1,16
+119.42,10000,61,108,High School,A,Total Loss,None,1,1,15
+70.39,6000,25,64,College,A,Total Loss,Ambulance,1,1,23
+90.48,2000,44,28,High School,A,Total Loss,Police,0,1,10
+75.06,4000,45,11,Bachelor,A,Total Loss,None,1,1,18
+105.16,1000,38,19,Masters,A,Major Loss,Police,1,1,3
+137.91,1000,58,92,High School,A,Minor Loss,Other,1,1,18
+93.27,2000,48,111,High School,A,Major Loss,Ambulance,1,1,13
+74.2,1000,29,68,MD,A,Major Loss,Police,0,1,5
+137.32,8000,56,37,High School,A,Major Loss,Ambulance,1,1,17
+93.67,3000,38,71,PhD,A,Minor Loss,Other,1,1,6
+138.36,9000,55,86,Bachelor,A,Major Loss,Police,0,1,20
+103.56,7000,57,119,Bachelor,A,Total Loss,None,1,0,23
+71.2,2000,49,38,High School,A,Major Loss,None,1,1,15
+85.09,5000,51,8,Masters,A,Minor Loss,Police,0,1,23
+127.86,5000,27,29,MD,A,Major Loss,Police,0,0,8
+134.42,10000,63,109,Bachelor,A,Minor Loss,Police,1,0,6
+103.97,9000,50,20,Bachelor,A,Major Loss,Police,1,1,20
+114.16,8000,61,116,Bachelor,A,Minor Loss,Ambulance,0,0,4
+138.08,2000,35,82,Bachelor,A,Major Loss,Ambulance,1,1,13
+113.54,10000,60,8,Bachelor,A,Major Loss,Police,1,1,10
+137.78,2000,55,105,Bachelor,D,Total Loss,Ambulance,0,0,9
+129.6,6000,36,14,High School,A,Minor Loss,Police,1,1,9
+98.91,1000,43,78,Masters,A,Total Loss,None,1,0,9
+88.6,5000,54,103,Bachelor,A,Minor Loss,Ambulance,1,1,15
+138.64,9000,50,7,High School,A,Minor Loss,Police,1,1,13
+75.09,4000,31,38,High School,A,Major Loss,Ambulance,1,0,0
+137.49,9000,53,97,High School,A,Major Loss,None,1,1,8
+119.98,3000,60,74,Bachelor,A,Minor Loss,Ambulance,1,1,5
+124.12,5000,43,55,PhD,A,Major Loss,None,1,1,19
+134.02,8000,39,62,Bachelor,A,Minor Loss,Ambulance,1,0,8
+107.65,6000,51,73,PhD,A,Minor Loss,Other,0,1,4
+87.5,9000,64,43,Bachelor,A,Major Loss,None,0,1,18
+99.2,8000,61,31,Bachelor,A,Major Loss,None,1,1,18
+132.93,6000,28,58,Masters,A,Major Loss,Other,0,0,18
+135.74,3000,63,111,Bachelor,A,Minor Loss,Ambulance,0,1,16
+117.2,9000,35,103,College,A,Minor Loss,Ambulance,1,0,20
+77.9,2000,54,7,Bachelor,A,Major Loss,None,1,1,14
+84.24,1000,43,54,High School,A,Minor Loss,Other,0,0,22
+137.35,9000,27,47,Bachelor,A,Minor Loss,None,0,1,21
+103.95,6000,35,20,Bachelor,A,Minor Loss,Ambulance,1,0,1
+80.82,7000,36,111,High School,A,Major Loss,None,0,1,2
+107.99,7000,33,37,Bachelor,A,Total Loss,Police,0,0,17
+103.07,4000,50,72,Bachelor,A,Major Loss,None,1,1,9
+74.09,9000,25,90,Bachelor,A,Major Loss,Other,1,1,5
+139.68,1000,49,116,Bachelor,A,Minor Loss,Ambulance,1,0,13
+101.73,2000,44,79,Bachelor,A,Major Loss,Ambulance,0,1,3
+92.39,7000,39,67,Bachelor,A,Major Loss,Ambulance,1,1,21
+112.59,10000,48,89,High School,A,Major Loss,Police,1,0,8
+74.92,1000,37,89,Bachelor,A,Minor Loss,None,1,1,6
+75.43,6000,49,37,College,A,Minor Loss,Police,1,0,22
+87.03,9000,38,28,Bachelor,A,Minor Loss,Ambulance,1,1,10
+122.06,3000,42,15,Masters,A,Total Loss,Other,0,0,20
+99.44,8000,48,17,College,A,Minor Loss,None,1,1,12
+77.92,7000,60,21,High School,A,Minor Loss,Police,1,0,2
+89.54,6000,31,35,Bachelor,D,Total Loss,Ambulance,1,1,23
+93.43,7000,53,96,College,A,Major Loss,Ambulance,1,0,10
+75.11,8000,61,89,PhD,A,Total Loss,None,1,0,16
+97.1,1000,64,68,Bachelor,A,Total Loss,Ambulance,1,1,19
+115.25,8000,36,60,MD,A,Major Loss,None,1,1,23
+95.96,10000,28,82,High School,A,Major Loss,Police,1,1,14
+86.1,8000,63,32,Masters,A,Major Loss,Police,1,1,15
+100.91,4000,51,68,PhD,A,Minor Loss,Ambulance,0,1,1
+105.23,2000,40,29,Bachelor,A,Total Loss,Other,1,0,9
+130.67,8000,38,119,High School,A,Minor Loss,Ambulance,1,0,14
+101.88,4000,42,66,College,A,Major Loss,Ambulance,1,1,4
+106.99,7000,42,34,Bachelor,A,Major Loss,None,1,0,17
+136.29,7000,29,10,PhD,A,Total Loss,Ambulance,0,1,22
+115.5,2000,28,50,Bachelor,A,Minor Loss,Police,1,0,23
+77.23,7000,63,72,Bachelor,A,Total Loss,Police,1,0,23
+105.57,3000,32,8,College,A,Major Loss,Other,1,1,4
+91.12,8000,57,106,Bachelor,A,Major Loss,Ambulance,1,1,15
+128.58,9000,26,73,Bachelor,A,Minor Loss,None,1,1,6
+102.83,10000,34,81,High School,A,Major Loss,Ambulance,0,1,13
+103.96,9000,33,74,Bachelor,A,Minor Loss,Police,1,1,13
+96.36,7000,56,15,High School,A,Minor Loss,Ambulance,0,1,18
+134.53,5000,28,50,MD,A,Major Loss,Ambulance,1,0,11
+132.98,1000,39,118,High School,A,Total Loss,Ambulance,1,1,11
+89.02,2000,49,52,Bachelor,A,Minor Loss,None,1,0,1
+95.38,4000,33,96,High School,A,Major Loss,Police,0,0,15
+91.27,9000,36,68,Bachelor,D,Total Loss,Ambulance,1,1,22
+73.13,10000,42,70,High School,A,Total Loss,None,1,1,17
+95.33,10000,51,52,High School,A,Total Loss,Police,0,0,11
+122.61,3000,56,71,College,A,Major Loss,Other,0,1,23
+122.18,2000,56,106,Bachelor,A,Minor Loss,Ambulance,0,1,10
+93.8,9000,48,82,MD,A,Minor Loss,Ambulance,1,1,21
+74.75,6000,30,101,Masters,A,Total Loss,Other,0,1,2
+81.1,10000,29,106,High School,A,Major Loss,Ambulance,1,1,20
+71.32,3000,48,79,Masters,A,Total Loss,Ambulance,1,0,5
+73.92,6000,28,58,Bachelor,A,Major Loss,Ambulance,0,1,8
+125.11,9000,53,117,Bachelor,A,Major Loss,Other,1,1,20
+93.99,3000,46,97,Bachelor,A,Total Loss,Ambulance,0,1,5
+103.78,2000,44,73,High School,A,Total Loss,Ambulance,1,0,6
+75.62,9000,50,54,Masters,A,Minor Loss,None,0,1,20
+84.23,7000,29,112,High School,D,Major Loss,Ambulance,1,0,18
+82.4,7000,62,34,Bachelor,A,Total Loss,Police,1,1,6
+120.92,9000,38,113,High School,A,Minor Loss,Police,1,0,3
+101.72,8000,46,65,MD,A,Minor Loss,Ambulance,1,0,7
+113.27,10000,47,111,High School,A,Major Loss,None,1,1,2
+95.85,1000,36,94,High School,A,Major Loss,None,1,1,22
+135.49,7000,41,48,Bachelor,A,Total Loss,None,0,1,19
+132.93,2000,52,34,Bachelor,A,Minor Loss,Ambulance,1,0,7
+77.15,8000,44,59,Bachelor,A,Major Loss,None,1,1,19
+112.02,1000,25,36,College,A,Total Loss,Other,1,1,0
+94.66,5000,36,27,Bachelor,A,Minor Loss,Police,1,1,11
+116.28,5000,56,18,High School,A,Major Loss,Other,1,0,8
+129.79,7000,29,38,High School,A,Total Loss,Other,1,0,7
+110.19,10000,42,25,Bachelor,A,Total Loss,None,0,0,16
+87.66,5000,28,71,Bachelor,A,Total Loss,Police,1,0,19
+124.2,1000,28,90,Bachelor,A,Total Loss,Police,1,0,19
+78.01,5000,63,91,High School,A,Major Loss,Ambulance,1,1,11
+98.83,1000,31,55,Bachelor,A,Minor Loss,Police,0,1,18
+89.13,6000,64,42,Bachelor,A,Minor Loss,None,1,0,17
+92.26,5000,26,119,Masters,A,Total Loss,Police,1,1,19
+87.29,9000,29,18,Bachelor,A,Minor Loss,Police,0,1,6
+84.96,7000,57,62,College,A,Major Loss,Ambulance,1,1,2
+82.97,5000,54,19,Bachelor,A,Minor Loss,Police,1,1,20
+105.45,10000,49,25,PhD,A,Minor Loss,Police,1,1,17
+101.01,8000,30,82,High School,A,Total Loss,Police,0,1,13
+111.1,7000,26,18,High School,A,Major Loss,Ambulance,1,0,8
+99.91,1000,49,44,College,A,Minor Loss,Police,1,0,12
+76.52,2000,52,106,High School,A,Minor Loss,Police,0,0,18
+116.92,1000,44,94,Bachelor,A,Total Loss,Police,0,1,22
+95.05,8000,62,44,MD,A,Major Loss,Ambulance,1,1,6
+95.82,1000,40,19,Bachelor,A,Major Loss,Police,0,1,9
+72.56,5000,41,85,High School,D,Major Loss,Police,1,1,14
+132.65,2000,57,34,Bachelor,A,Minor Loss,Ambulance,0,0,1
+90.07,5000,34,22,High School,A,Total Loss,None,1,0,9
+111.37,7000,51,15,MD,A,Major Loss,Police,1,0,20
+70.78,4000,50,13,Bachelor,A,Total Loss,Ambulance,0,1,6
+74.99,8000,46,79,High School,A,Major Loss,Other,1,1,2
+118.17,1000,45,28,Bachelor,A,Major Loss,Other,1,1,15
+130.9,5000,38,35,High School,A,Major Loss,Ambulance,1,1,8
+77.5,4000,31,61,Bachelor,A,Major Loss,Police,0,0,2
+107.35,1000,38,55,High School,A,Total Loss,Ambulance,1,0,3
+113.54,10000,40,93,Bachelor,A,Minor Loss,Police,1,1,4
+136.57,1000,56,11,Bachelor,A,Total Loss,Police,1,0,11
+88.49,5000,38,41,College,A,Major Loss,None,1,1,11
+116.06,1000,53,116,College,A,Minor Loss,Ambulance,1,1,2
+96.11,3000,30,109,College,A,Major Loss,Ambulance,1,1,23
+96.55,6000,42,86,High School,A,Major Loss,Ambulance,1,1,20
+137.37,4000,30,64,High School,A,Minor Loss,Ambulance,0,1,5
+110.64,4000,57,49,Bachelor,A,Major Loss,Police,1,0,0
+83.24,6000,34,45,High School,A,Minor Loss,None,1,1,3
+124.98,5000,61,84,Bachelor,A,Major Loss,Police,1,1,19
+127.24,7000,47,117,PhD,A,Total Loss,Ambulance,0,1,8
+82.37,6000,64,13,High School,A,Major Loss,Ambulance,1,1,4
+96.91,4000,47,87,Bachelor,A,Major Loss,Ambulance,0,0,10
+100.46,2000,58,21,Bachelor,A,Total Loss,Ambulance,0,1,21
+123.35,5000,57,32,Bachelor,A,Total Loss,None,0,0,1
+110.87,10000,49,43,MD,A,Major Loss,Ambulance,0,1,12
+117.92,8000,33,82,Bachelor,A,Total Loss,None,1,1,16
+118.25,1000,32,59,High School,A,Major Loss,Ambulance,1,1,15
+134.28,2000,36,47,Masters,A,Major Loss,Ambulance,1,0,20
+109.4,8000,42,111,Bachelor,A,Total Loss,Police,1,1,14
+123.54,1000,29,47,College,A,Minor Loss,Police,1,1,13
+133.62,3000,56,86,Bachelor,A,Total Loss,Other,1,1,11
+103.88,9000,25,17,Masters,A,Major Loss,Ambulance,0,1,0
+81.12,2000,42,99,Bachelor,A,Major Loss,Ambulance,0,1,0
+89.04,9000,37,12,MD,A,Major Loss,Other,1,1,8
+129.98,5000,32,21,Bachelor,A,Minor Loss,Ambulance,0,0,17
+134.96,6000,48,26,High School,A,Minor Loss,Ambulance,0,1,22
+126.05,6000,53,24,Bachelor,A,Total Loss,Ambulance,1,1,12
+83.61,5000,62,32,MD,A,Total Loss,Ambulance,0,1,4
+109.96,6000,33,116,College,A,Minor Loss,Ambulance,0,1,5
+116.64,7000,36,8,High School,A,Major Loss,Other,0,1,11
+101.0,7000,40,12,MD,D,Total Loss,Ambulance,1,1,16
+121.9,2000,25,19,High School,A,Total Loss,Police,0,0,11
+123.68,4000,28,30,Masters,A,Total Loss,Police,1,0,3
+116.5,9000,29,28,College,A,Major Loss,Ambulance,1,0,6
+123.35,6000,27,11,Bachelor,A,Major Loss,Police,0,1,16
+117.49,10000,57,73,Masters,D,Total Loss,Police,0,1,3
+124.76,4000,32,106,Masters,A,Major Loss,None,0,0,2
+117.9,7000,46,91,High School,A,Major Loss,None,1,1,20
+130.84,9000,55,73,Bachelor,A,Minor Loss,Police,1,1,18
+76.77,9000,29,46,Bachelor,A,Minor Loss,Other,1,1,17
+139.71,8000,58,103,Masters,A,Major Loss,None,1,1,8
+107.14,7000,32,12,Masters,A,Major Loss,Police,0,1,21
+138.04,7000,26,49,High School,A,Major Loss,Ambulance,1,0,17
+72.96,2000,44,29,Bachelor,A,Minor Loss,Ambulance,1,0,19
+117.4,6000,25,102,College,D,Major Loss,Ambulance,1,1,3
+126.71,10000,48,97,Bachelor,A,Major Loss,Ambulance,1,0,9
+98.94,2000,62,51,Bachelor,A,Major Loss,None,1,1,10
+105.54,7000,39,75,High School,A,Major Loss,Ambulance,1,1,18
+134.28,7000,60,48,MD,A,Minor Loss,None,1,1,2
+95.9,5000,62,26,High School,A,Minor Loss,Ambulance,0,1,11
+70.63,2000,64,12,Bachelor,A,Total Loss,Ambulance,1,1,17
+113.05,9000,60,77,College,A,Minor Loss,None,1,0,4
+136.06,5000,50,80,Bachelor,A,Total Loss,Ambulance,1,1,18
+111.65,10000,52,118,Bachelor,D,Minor Loss,Ambulance,1,1,21
+98.3,7000,26,85,Masters,A,Minor Loss,Ambulance,1,1,8
+89.17,7000,29,85,Bachelor,A,Minor Loss,Ambulance,1,1,4
+92.16,10000,49,100,High School,A,Total Loss,Police,1,1,0
+99.11,8000,33,73,College,A,Major Loss,Ambulance,0,1,12
+129.27,1000,59,32,Bachelor,A,Minor Loss,Police,0,0,7
+135.89,8000,30,24,High School,A,Minor Loss,Police,1,0,0
+110.36,10000,49,82,Bachelor,A,Minor Loss,Other,0,1,3
+117.55,1000,54,74,Bachelor,A,Minor Loss,Ambulance,1,1,5
+104.57,10000,63,103,Bachelor,A,Major Loss,Ambulance,1,1,8
+96.48,4000,64,14,College,A,Minor Loss,Ambulance,1,0,15
+82.49,10000,34,49,Bachelor,A,Total Loss,Ambulance,1,1,21
+74.46,5000,35,38,College,A,Total Loss,Police,0,1,19
+133.98,8000,37,61,Bachelor,A,Major Loss,Ambulance,0,1,15
+100.26,4000,56,101,High School,A,Minor Loss,Ambulance,0,0,17
+70.93,9000,49,14,Bachelor,A,Major Loss,Police,0,0,11
+101.65,6000,40,23,Masters,A,Major Loss,Ambulance,1,1,15
+121.14,8000,25,84,Bachelor,A,Minor Loss,Police,1,1,11
+112.77,6000,58,53,High School,A,Total Loss,Ambulance,0,0,11
+131.23,2000,34,18,College,A,Total Loss,Other,0,0,15
+114.51,6000,34,96,High School,A,Major Loss,Police,1,0,19
+97.45,3000,48,6,High School,A,Major Loss,Ambulance,1,1,19
+75.84,4000,61,50,Bachelor,A,Total Loss,None,1,1,6
+123.61,6000,25,51,College,A,Minor Loss,None,1,0,5
+121.58,4000,48,7,Bachelor,A,Total Loss,Ambulance,0,1,22
+124.28,5000,32,98,Bachelor,A,Total Loss,Other,0,0,12
+120.32,6000,58,8,Bachelor,A,Major Loss,Police,1,1,23
+89.66,2000,43,101,High School,A,Minor Loss,Police,1,1,19
+117.8,4000,58,27,High School,A,Major Loss,Ambulance,1,1,4
+97.26,10000,26,43,High School,A,Major Loss,None,1,1,19
+85.97,4000,50,113,PhD,D,Total Loss,Ambulance,1,1,20
+138.43,5000,31,68,Bachelor,A,Minor Loss,Ambulance,1,0,17
+101.27,10000,50,88,High School,A,Total Loss,None,1,0,14
+113.72,10000,51,79,Bachelor,A,Major Loss,Police,1,0,20
+73.48,4000,31,112,Bachelor,A,Minor Loss,Ambulance,0,1,6
+104.33,6000,44,78,Bachelor,A,Minor Loss,Police,0,1,15
+129.01,10000,27,50,High School,D,Total Loss,Ambulance,0,1,3
+121.21,1000,56,86,High School,A,Total Loss,Other,1,1,4
+85.03,1000,51,34,College,A,Total Loss,Ambulance,1,0,19
+133.22,8000,30,54,Bachelor,A,Major Loss,None,1,1,16
+123.35,9000,35,27,High School,A,Total Loss,Ambulance,1,1,23
+85.0,6000,27,55,Bachelor,A,Major Loss,Ambulance,1,0,7
+74.24,9000,55,99,Bachelor,A,Minor Loss,Police,1,1,14
+99.59,9000,49,99,High School,A,Minor Loss,None,1,0,1
+90.67,8000,44,89,Bachelor,A,Minor Loss,Ambulance,1,1,8
+124.81,4000,44,17,Masters,D,Major Loss,Ambulance,0,1,9
+111.94,7000,33,19,College,A,Total Loss,None,1,1,12
+126.84,3000,43,52,Masters,A,Major Loss,Ambulance,1,0,13
+83.78,9000,47,11,Masters,A,Major Loss,Police,0,1,20
+139.48,9000,58,54,Masters,A,Minor Loss,Police,0,0,6
+78.67,1000,62,33,College,A,Major Loss,Police,0,1,22
+97.37,7000,59,40,PhD,A,Minor Loss,None,1,0,6
+134.8,6000,26,82,High School,A,Total Loss,Ambulance,1,0,20
+70.22,2000,61,75,College,A,Total Loss,Police,1,0,21
+128.65,3000,30,28,High School,A,Total Loss,Ambulance,1,1,19
+133.19,8000,37,49,High School,A,Minor Loss,Ambulance,1,1,19
+138.28,8000,59,82,Masters,A,Total Loss,Ambulance,1,0,15
+84.1,6000,51,57,Bachelor,A,Major Loss,Police,1,1,12
+121.94,2000,43,87,Bachelor,A,Total Loss,None,0,1,8
+99.44,6000,53,41,College,A,Major Loss,Ambulance,0,1,7
+72.08,7000,29,32,High School,A,Minor Loss,Police,1,1,4
+131.82,1000,44,16,Bachelor,A,Minor Loss,None,1,1,19
+73.62,6000,58,32,High School,A,Major Loss,Ambulance,1,1,15
+74.97,1000,60,20,Bachelor,A,Major Loss,Ambulance,1,0,20
+100.18,1000,47,70,High School,A,Minor Loss,Other,0,1,5
+104.57,8000,29,103,Bachelor,D,Major Loss,Police,1,0,6
+124.37,3000,30,106,Bachelor,A,Major Loss,Ambulance,1,0,2
+128.24,7000,49,42,High School,A,Total Loss,Police,0,1,11
+76.35,10000,28,77,MD,A,Minor Loss,Ambulance,1,0,16
+110.18,6000,47,111,PhD,A,Total Loss,Other,1,1,14
+129.17,5000,49,56,Bachelor,A,Total Loss,Police,1,1,1
+119.44,4000,25,105,Bachelor,D,Major Loss,Ambulance,1,1,2
+136.35,7000,50,76,Bachelor,A,Total Loss,Police,1,1,3
+82.39,7000,55,39,Bachelor,A,Major Loss,Police,1,1,4
+88.91,6000,26,58,Masters,A,Total Loss,Police,1,1,19
+125.98,10000,34,111,Masters,A,Major Loss,Ambulance,0,1,20
+78.43,8000,35,68,High School,A,Major Loss,Police,1,1,14
+113.19,5000,50,68,Bachelor,A,Total Loss,Police,1,1,4
+93.16,2000,36,118,Bachelor,D,Major Loss,None,1,1,14
+79.07,7000,28,7,High School,A,Total Loss,None,1,0,1
+110.54,7000,37,26,Masters,A,Minor Loss,Police,0,1,15
+77.81,3000,38,8,Masters,A,Major Loss,Police,1,1,9
+118.73,3000,29,100,Bachelor,A,Major Loss,Ambulance,1,1,21
+111.67,6000,25,46,Bachelor,A,Total Loss,Ambulance,0,1,2
+129.79,2000,40,114,High School,A,Major Loss,None,1,0,16
+80.22,9000,36,19,Bachelor,A,Total Loss,None,0,1,7
+110.54,8000,62,65,Bachelor,A,Minor Loss,Police,0,1,8
+81.88,3000,55,76,High School,A,Major Loss,None,1,0,20
+75.0,1000,55,116,High School,A,Total Loss,Police,0,1,6
+99.44,7000,44,48,Bachelor,A,Total Loss,Ambulance,0,1,21
+74.25,6000,32,11,Masters,A,Total Loss,None,0,1,3
+112.24,8000,64,31,High School,A,Minor Loss,None,0,1,6
+86.06,4000,54,82,Bachelor,A,Minor Loss,Ambulance,1,0,9
+106.01,3000,46,9,Bachelor,A,Major Loss,None,1,0,9
+113.14,4000,48,103,Bachelor,A,Total Loss,Police,0,1,22
+134.6,5000,35,23,Masters,D,Minor Loss,None,1,0,13
+122.52,5000,58,51,Bachelor,A,Minor Loss,Other,1,1,17
+114.63,2000,38,25,High School,A,Minor Loss,Other,1,0,3
+101.27,5000,35,31,High School,A,Major Loss,Police,1,1,0
+118.98,10000,55,111,Bachelor,A,Total Loss,None,0,1,4
+85.8,7000,54,20,High School,A,Total Loss,Ambulance,0,1,11
+80.32,6000,42,89,Bachelor,A,Major Loss,None,0,1,6
+111.87,10000,55,49,Bachelor,A,Total Loss,None,1,0,11
+75.28,6000,39,91,Masters,A,Minor Loss,None,1,0,8
+85.0,7000,36,65,MD,A,Major Loss,Ambulance,0,1,6
+117.0,9000,42,31,High School,A,Total Loss,Police,1,1,17
+103.2,2000,30,62,Bachelor,D,Total Loss,Other,0,0,16
+119.35,5000,34,104,High School,A,Total Loss,Ambulance,1,0,19
+107.18,8000,50,90,College,A,Major Loss,Police,1,1,22
+122.34,4000,62,110,Bachelor,A,Major Loss,Ambulance,1,1,6
+132.26,4000,35,35,High School,A,Minor Loss,Ambulance,0,1,1
+118.4,1000,54,69,PhD,A,Total Loss,Ambulance,1,1,8
+134.96,7000,44,8,High School,A,Major Loss,Police,1,1,1
+87.89,3000,47,40,Masters,A,Major Loss,Ambulance,1,1,11
+83.05,8000,49,24,Bachelor,A,Total Loss,Ambulance,1,1,1
+82.99,4000,33,39,High School,A,Minor Loss,Police,1,0,6
+122.88,1000,44,48,College,D,Major Loss,Other,0,1,6
+96.33,7000,38,7,Bachelor,A,Total Loss,Ambulance,1,1,9
+109.97,3000,48,59,Bachelor,A,Major Loss,Police,1,1,18
+71.32,8000,57,35,High School,A,Major Loss,Police,1,0,14
+84.77,4000,56,96,Bachelor,A,Minor Loss,Ambulance,1,1,21
+78.97,1000,26,78,Bachelor,A,Total Loss,Other,1,0,3
+138.21,3000,59,119,College,A,Total Loss,None,1,0,5
+93.44,5000,55,86,Masters,A,Major Loss,Police,1,0,11
+130.11,6000,30,106,MD,A,Major Loss,Ambulance,1,0,23
+112.26,8000,53,105,High School,A,Major Loss,None,0,1,20
+116.83,10000,45,69,High School,A,Major Loss,Ambulance,0,0,9
+101.29,1000,64,96,Bachelor,A,Minor Loss,Ambulance,1,1,23
+107.09,10000,25,88,Bachelor,A,Major Loss,None,1,1,17
+97.92,1000,49,60,MD,A,Major Loss,Other,1,1,12
+118.21,3000,25,9,Bachelor,A,Major Loss,Ambulance,1,0,22
+98.63,3000,33,13,High School,D,Major Loss,Police,1,1,7
+92.58,1000,58,100,Masters,A,Minor Loss,Ambulance,1,0,19
+100.27,4000,44,79,Bachelor,A,Minor Loss,Other,1,0,6
+79.16,7000,27,115,High School,A,Major Loss,Police,1,1,22
+120.64,6000,28,106,Bachelor,A,Major Loss,Ambulance,1,1,14
+112.17,9000,50,97,High School,A,Major Loss,Police,1,0,21
+90.52,7000,54,105,MD,A,Minor Loss,Ambulance,1,0,4
+139.93,7000,52,76,Bachelor,A,Major Loss,Ambulance,0,1,15
+132.3,3000,41,73,College,A,Major Loss,Police,1,1,6
+76.35,7000,60,30,High School,A,Minor Loss,Ambulance,0,0,3
+133.82,6000,49,105,College,A,Minor Loss,Police,0,1,1
+96.18,6000,62,84,College,A,Major Loss,None,1,1,18
+89.19,8000,33,82,High School,A,Major Loss,Police,0,1,10
+133.76,4000,30,29,Bachelor,A,Major Loss,Police,1,0,6
+75.0,4000,60,49,High School,A,Minor Loss,Police,1,0,14
+72.45,7000,39,67,Masters,A,Major Loss,Ambulance,1,1,17
+120.94,2000,60,98,High School,A,Total Loss,Police,0,1,20
+129.26,5000,31,74,High School,A,Minor Loss,Ambulance,1,0,11
+100.63,3000,29,37,High School,A,Total Loss,Ambulance,1,1,8
+112.69,1000,52,94,High School,A,Major Loss,Police,1,1,13
+124.71,6000,52,83,Bachelor,A,Minor Loss,Ambulance,1,1,0
+133.42,9000,57,84,High School,A,Minor Loss,Police,1,1,22
+127.43,5000,42,78,PhD,A,Major Loss,Police,1,0,5
+94.53,5000,38,108,Bachelor,A,Major Loss,Ambulance,1,0,9
+81.77,2000,64,37,Bachelor,A,Major Loss,None,1,1,4
+100.99,9000,32,58,Masters,A,Total Loss,Ambulance,1,1,11
+121.72,5000,63,82,MD,A,Total Loss,None,1,1,20
+85.6,6000,61,80,College,D,Total Loss,Police,1,1,13
+86.02,8000,57,77,High School,A,Total Loss,None,1,0,9
+122.58,1000,53,58,Bachelor,A,Total Loss,Police,1,1,19
+91.99,9000,55,17,College,A,Total Loss,Ambulance,0,0,22
+129.85,2000,48,103,Bachelor,A,Total Loss,Police,0,1,16
+121.95,5000,45,84,College,A,Major Loss,Ambulance,1,1,23
+83.65,8000,50,77,Bachelor,A,Major Loss,None,1,0,6
+125.96,9000,37,33,High School,A,Major Loss,Other,1,1,10
+127.06,5000,27,37,Bachelor,A,Major Loss,Ambulance,0,0,23
+71.19,8000,43,40,Bachelor,A,Major Loss,None,1,1,19
+73.05,10000,42,118,Bachelor,A,Minor Loss,Police,1,1,22
+116.91,9000,51,39,Masters,A,Minor Loss,Police,1,1,3
+70.19,5000,58,35,Bachelor,A,Total Loss,Ambulance,1,1,13
+95.53,6000,53,56,Bachelor,A,Total Loss,Police,1,1,3
+109.8,7000,48,64,High School,A,Minor Loss,None,1,0,4
+123.79,7000,42,107,Bachelor,A,Total Loss,Police,1,1,17
+120.39,4000,45,119,Bachelor,A,Total Loss,Ambulance,1,0,11
+116.15,2000,55,98,College,D,Minor Loss,None,1,0,22
+70.87,3000,27,73,High School,A,Major Loss,Police,1,1,16
+126.55,2000,37,57,College,A,Total Loss,Police,0,0,7
+70.97,4000,45,38,MD,A,Minor Loss,Ambulance,1,1,3
+95.43,1000,41,91,Masters,A,Major Loss,Police,1,0,8
+99.99,3000,50,107,Bachelor,A,Major Loss,Ambulance,1,1,23
+72.36,3000,46,64,High School,A,Major Loss,None,0,1,7
+126.03,6000,41,64,High School,A,Total Loss,Ambulance,1,1,9
+80.87,10000,56,24,College,D,Total Loss,Police,1,0,0
+128.91,3000,55,94,College,A,Minor Loss,Ambulance,0,1,17
+121.27,5000,53,18,Bachelor,D,Total Loss,Ambulance,0,1,13
+117.82,1000,29,33,MD,A,Minor Loss,Police,1,1,0
+89.2,9000,34,69,Bachelor,A,Minor Loss,None,1,1,23
+87.21,10000,35,24,Masters,A,Total Loss,Police,1,1,5
+117.26,4000,28,31,Bachelor,A,Total Loss,Police,1,0,5
+70.93,2000,50,39,High School,A,Major Loss,None,1,1,16
+96.38,1000,41,29,Bachelor,A,Major Loss,None,0,1,12
+76.14,5000,56,75,Bachelor,A,Minor Loss,Ambulance,0,1,22
+90.58,8000,35,56,College,A,Major Loss,Police,1,1,5
+88.69,8000,29,87,High School,A,Major Loss,None,1,1,19
+132.62,10000,35,111,Masters,A,Total Loss,None,0,1,18
+79.85,3000,25,91,High School,A,Total Loss,Other,1,1,10
+116.46,6000,61,31,High School,A,Total Loss,Ambulance,0,0,13
+135.8,7000,41,38,High School,A,Total Loss,None,1,1,12
+91.86,2000,54,73,Bachelor,A,Total Loss,None,0,1,19
+112.27,10000,47,63,High School,A,Minor Loss,Ambulance,1,1,19
+138.61,10000,46,100,MD,A,Total Loss,Police,1,0,6
+94.61,3000,27,58,Bachelor,A,Total Loss,Ambulance,0,1,13
+106.07,9000,30,17,Bachelor,A,Minor Loss,Ambulance,0,0,2
+105.4,5000,33,97,High School,A,Major Loss,None,0,1,5
+134.88,3000,37,6,High School,A,Minor Loss,Ambulance,1,0,3
+137.52,3000,64,76,PhD,A,Total Loss,Ambulance,1,1,3
+117.15,4000,32,18,Bachelor,A,Major Loss,None,0,0,18
+101.46,6000,48,61,College,A,Minor Loss,Police,0,0,18
+130.84,5000,59,42,High School,A,Major Loss,Other,0,0,13
+82.94,7000,27,69,MD,A,Minor Loss,Ambulance,1,1,13
+133.62,2000,31,60,College,D,Major Loss,Ambulance,1,1,8
+87.51,5000,42,84,Bachelor,A,Minor Loss,Police,0,1,12
+122.72,7000,26,92,MD,A,Major Loss,Ambulance,1,1,20
+127.22,4000,63,108,College,A,Total Loss,Ambulance,0,1,21
+89.42,2000,64,70,High School,A,Total Loss,Ambulance,1,1,22
+79.15,7000,53,118,Masters,A,Minor Loss,Other,1,1,12
+107.02,7000,47,33,High School,D,Minor Loss,Other,1,0,9
+128.47,8000,39,49,Bachelor,A,Total Loss,None,1,0,11
+100.62,10000,54,51,College,D,Major Loss,Police,0,1,23
+135.17,4000,55,49,High School,A,Total Loss,Ambulance,1,0,4
+97.78,1000,30,8,MD,A,Major Loss,None,1,1,18
+109.01,4000,50,74,Masters,A,Total Loss,Ambulance,0,0,14
+98.11,1000,25,50,Bachelor,A,Minor Loss,None,1,1,23
+77.73,8000,34,94,College,A,Major Loss,Police,1,1,19
+120.8,5000,49,83,High School,A,Major Loss,Ambulance,1,1,22
+136.11,10000,61,7,Bachelor,A,Total Loss,Police,0,1,19
+113.48,10000,60,36,Bachelor,A,Major Loss,Police,1,0,19
+102.16,2000,58,99,Bachelor,A,Minor Loss,Other,1,1,8
+90.57,6000,34,108,College,A,Major Loss,Ambulance,1,1,23
+131.92,8000,26,99,Bachelor,A,Major Loss,Police,1,1,9
+137.13,5000,64,59,MD,A,Minor Loss,Other,1,0,21
+102.46,2000,52,8,Bachelor,A,Major Loss,Ambulance,1,0,13
+130.36,3000,44,73,High School,A,Total Loss,Ambulance,1,1,12
+81.58,4000,37,75,High School,A,Minor Loss,None,0,0,23
+129.18,2000,33,37,Bachelor,A,Minor Loss,Ambulance,1,1,8
+116.14,2000,35,100,Masters,A,Major Loss,Ambulance,1,1,17
+113.73,7000,49,56,PhD,A,Total Loss,Ambulance,1,1,21
+119.95,8000,55,85,Bachelor,A,Total Loss,None,1,0,14
+109.19,10000,52,33,Bachelor,A,Minor Loss,None,1,1,7
+120.12,10000,53,89,High School,A,Total Loss,None,1,0,7
+84.92,10000,41,65,Masters,A,Major Loss,Ambulance,1,1,22
+107.01,6000,61,72,College,A,Minor Loss,Ambulance,1,1,18
+78.74,3000,35,89,High School,A,Major Loss,Police,0,0,1
+96.03,1000,52,101,Bachelor,A,Minor Loss,Police,1,1,21
+70.76,3000,36,114,MD,A,Major Loss,None,1,0,13
+105.37,10000,59,110,MD,A,Minor Loss,Ambulance,1,1,17
+78.26,7000,46,107,High School,D,Major Loss,Police,0,1,0
+139.11,3000,27,9,Bachelor,A,Total Loss,Ambulance,1,1,19
+100.57,6000,64,45,High School,A,Total Loss,Police,0,1,0
+73.49,4000,50,93,High School,A,Major Loss,None,1,0,12
+70.88,6000,32,48,PhD,A,Minor Loss,Other,1,1,18
+100.5,1000,28,44,Masters,A,Major Loss,None,0,1,17
+112.42,4000,48,42,High School,A,Major Loss,Police,0,1,15
+134.06,3000,52,38,PhD,A,Major Loss,Ambulance,1,1,17
+94.44,5000,30,70,PhD,D,Major Loss,Police,1,0,5
+120.66,4000,44,74,High School,A,Total Loss,Ambulance,0,1,8
+92.69,8000,39,7,Bachelor,A,Total Loss,Police,0,0,10
+81.46,1000,45,72,Bachelor,A,Minor Loss,Police,1,1,19
+96.19,9000,60,64,High School,A,Total Loss,None,1,1,11
+83.03,7000,36,24,High School,A,Major Loss,Ambulance,0,0,2
+95.04,2000,36,104,Bachelor,A,Minor Loss,Ambulance,1,1,11
+85.27,2000,44,63,MD,A,Total Loss,None,1,1,10
+84.99,7000,60,82,Bachelor,D,Minor Loss,Police,0,1,17
+78.08,5000,25,67,MD,A,Minor Loss,Police,0,0,12
+129.35,6000,26,90,High School,A,Major Loss,None,0,0,3
+85.53,8000,44,58,MD,A,Minor Loss,None,0,1,1
+124.08,9000,62,99,High School,A,Minor Loss,Ambulance,1,1,19
+74.87,1000,33,57,High School,A,Major Loss,Police,1,1,22
+90.53,2000,44,91,Bachelor,A,Major Loss,Police,0,0,0
+78.13,3000,58,99,High School,A,Minor Loss,Ambulance,0,1,16
+114.01,6000,25,47,Bachelor,A,Minor Loss,Ambulance,1,1,1
+117.5,6000,52,61,Bachelor,A,Major Loss,Police,1,0,13
+119.49,1000,34,118,Bachelor,A,Minor Loss,Ambulance,1,0,4
+96.97,2000,38,10,High School,A,Minor Loss,Police,1,1,11
+107.17,1000,46,53,College,A,Major Loss,Ambulance,1,0,23
+76.5,4000,33,56,High School,A,Total Loss,Other,1,1,20
+88.37,4000,28,94,College,A,Total Loss,Police,1,1,2
+74.06,8000,49,21,Bachelor,A,Minor Loss,Police,1,1,22
+114.7,9000,53,31,Bachelor,A,Major Loss,Ambulance,0,1,6
+125.65,8000,53,85,Masters,A,Major Loss,None,0,1,13
+109.13,4000,62,33,MD,A,Major Loss,Police,1,1,22
+118.32,4000,47,29,High School,A,Minor Loss,Ambulance,1,1,22
+106.82,5000,42,14,High School,A,Major Loss,Other,1,0,11
+111.26,5000,52,25,Bachelor,A,Major Loss,Ambulance,0,0,19
+83.16,3000,60,83,High School,A,Total Loss,Police,1,0,15
+137.95,6000,48,25,High School,D,Major Loss,Ambulance,1,0,19
+132.18,4000,52,110,High School,A,Total Loss,Other,1,1,10
+82.35,10000,58,39,Bachelor,A,Minor Loss,Ambulance,0,1,6
+77.67,2000,60,73,High School,A,Major Loss,None,1,1,14
+129.1,9000,64,81,High School,A,Total Loss,Police,0,1,7
+98.79,9000,57,34,Bachelor,A,Major Loss,None,1,0,23
+120.74,7000,64,84,Bachelor,A,Minor Loss,Other,1,1,9
+112.97,5000,52,30,High School,A,Total Loss,Police,1,0,4
+88.66,7000,46,76,High School,A,Major Loss,Ambulance,1,1,2
+77.15,3000,40,7,College,A,Major Loss,Ambulance,0,1,0
+122.56,9000,64,117,College,A,Minor Loss,Police,1,1,9
+121.48,7000,40,99,High School,A,Minor Loss,Police,1,1,20
+87.89,7000,32,66,Bachelor,A,Total Loss,Ambulance,0,0,12
+85.74,3000,49,46,Bachelor,A,Minor Loss,Ambulance,1,0,9
+124.89,8000,25,51,High School,A,Total Loss,None,0,1,13
+96.28,5000,35,109,Bachelor,A,Major Loss,Ambulance,1,0,14
+91.82,4000,43,93,Bachelor,D,Minor Loss,Other,1,1,10
+85.35,3000,25,53,MD,A,Major Loss,Ambulance,1,0,1
+75.97,10000,58,64,Masters,A,Major Loss,None,1,0,19
+93.88,3000,51,15,Masters,A,Total Loss,None,1,1,10
+126.36,2000,63,18,Bachelor,A,Minor Loss,Ambulance,0,1,0
+84.58,5000,60,6,Bachelor,A,Minor Loss,Police,1,1,14
+74.74,7000,39,25,Bachelor,A,Minor Loss,Police,0,0,13
+97.41,10000,57,70,Bachelor,A,Total Loss,Police,1,1,10
+104.96,7000,38,92,MD,A,Major Loss,Ambulance,0,1,15
+112.08,1000,51,33,Bachelor,A,Major Loss,Police,0,1,21
+111.52,5000,40,51,Bachelor,A,Total Loss,Ambulance,1,1,4
+88.51,7000,52,98,College,A,Minor Loss,Police,0,1,14
+124.55,3000,33,47,Bachelor,A,Minor Loss,Other,1,1,12
+96.56,3000,46,84,College,A,Major Loss,None,1,1,18
+78.07,2000,36,24,MD,D,Total Loss,Police,1,1,0
+72.56,1000,46,59,Masters,A,Minor Loss,Other,1,1,21
+88.61,2000,42,78,Bachelor,A,Major Loss,None,1,1,17
+97.27,8000,37,32,MD,A,Major Loss,Police,1,0,16
+139.26,2000,41,47,High School,A,Total Loss,Ambulance,1,0,15
+122.73,9000,42,78,Bachelor,A,Major Loss,Ambulance,1,0,5
+98.27,7000,46,80,High School,A,Major Loss,Police,1,0,21
+78.02,2000,60,53,Bachelor,A,Major Loss,Ambulance,0,0,9
+133.2,1000,48,44,Bachelor,A,Total Loss,Other,1,1,20
+133.46,9000,44,43,Bachelor,D,Minor Loss,Ambulance,1,0,11
+99.07,6000,60,23,College,A,Minor Loss,None,1,1,10
+109.17,7000,37,71,High School,A,Minor Loss,None,1,1,15
+112.11,10000,44,59,College,A,Major Loss,Police,0,0,15
+115.06,4000,26,15,Masters,A,Major Loss,Police,1,1,5
+103.08,2000,38,92,Bachelor,A,Minor Loss,Police,1,1,17
+85.67,6000,29,117,High School,A,Total Loss,None,0,1,1
+83.02,8000,50,44,Bachelor,A,Minor Loss,Police,0,0,21
+133.98,1000,64,111,Bachelor,A,Major Loss,Police,1,1,11
+98.22,2000,47,116,Masters,A,Minor Loss,Police,0,1,9
+126.65,9000,49,40,High School,A,Major Loss,Ambulance,0,1,15
+71.53,2000,31,107,College,A,Minor Loss,Other,1,0,7
+117.06,10000,34,30,Bachelor,A,Major Loss,Police,1,0,20
+73.72,7000,44,87,Bachelor,D,Major Loss,Police,1,0,10
+78.36,1000,51,25,MD,A,Major Loss,None,1,1,16
+129.63,9000,40,78,High School,A,Total Loss,Ambulance,1,1,0
+110.1,2000,52,66,High School,A,Minor Loss,Police,1,0,20
+93.78,4000,55,68,Bachelor,A,Minor Loss,Ambulance,1,1,20
+73.76,3000,28,92,Bachelor,A,Minor Loss,Other,1,1,15
+93.81,7000,64,21,MD,A,Minor Loss,Ambulance,1,0,17
+95.8,2000,37,29,High School,A,Major Loss,Ambulance,1,1,21
+124.72,4000,58,16,MD,A,Minor Loss,None,1,1,5
+103.01,5000,53,31,Bachelor,A,Total Loss,None,0,1,17
+117.05,9000,42,109,College,A,Minor Loss,Police,1,1,22
+118.5,9000,54,68,Bachelor,A,Total Loss,None,1,0,17
+113.07,3000,51,117,Masters,D,Major Loss,Police,0,1,16
+83.81,3000,42,21,PhD,D,Major Loss,Ambulance,1,1,22
+101.2,4000,53,102,Bachelor,A,Minor Loss,Other,0,0,6
+133.0,5000,28,79,Bachelor,A,Minor Loss,Police,1,0,19
+133.06,4000,63,99,College,A,Major Loss,None,1,0,10
+107.24,2000,52,78,College,A,Minor Loss,Other,1,0,10
+82.8,1000,39,99,High School,A,Minor Loss,Other,0,1,10
+101.95,6000,25,59,College,A,Minor Loss,None,1,1,10
+82.21,8000,53,13,Bachelor,A,Total Loss,Police,1,1,18
+123.93,3000,56,55,Bachelor,A,Major Loss,Police,1,0,17
+82.99,8000,38,16,Bachelor,A,Major Loss,Other,0,1,8
+77.71,9000,44,92,High School,A,Major Loss,Ambulance,0,1,21
+128.46,2000,63,99,High School,A,Total Loss,None,1,1,2
+136.69,7000,31,41,Bachelor,A,Minor Loss,Ambulance,1,1,19
+85.86,8000,64,113,Bachelor,A,Minor Loss,Ambulance,1,0,15
+125.79,4000,56,109,Masters,A,Major Loss,Ambulance,0,1,0
+103.74,4000,53,76,Bachelor,A,Major Loss,Ambulance,1,1,2
+130.31,10000,58,58,Bachelor,A,Minor Loss,Ambulance,0,1,23
+115.2,5000,64,33,Bachelor,A,Minor Loss,Police,1,1,6
+124.55,3000,49,62,Bachelor,A,Total Loss,Police,1,1,18
+101.69,7000,50,66,Bachelor,A,Total Loss,Ambulance,1,1,23
+78.74,5000,58,27,Bachelor,A,Minor Loss,Police,1,0,9
+104.46,2000,37,39,High School,D,Major Loss,Ambulance,1,1,8
+97.32,8000,25,8,Bachelor,A,Major Loss,Other,1,1,20
+79.61,3000,38,77,High School,A,Major Loss,Other,1,1,21
+91.95,9000,37,99,College,A,Major Loss,Police,0,1,9
+70.43,4000,58,60,High School,A,Minor Loss,Police,1,0,10
+108.28,5000,27,73,College,A,Minor Loss,Ambulance,1,1,18
+120.59,2000,34,72,College,A,Total Loss,None,1,1,5
+72.0,4000,61,25,High School,A,Total Loss,None,0,1,2
+80.31,10000,25,50,Bachelor,D,Minor Loss,Police,1,1,18
+97.83,6000,31,62,Masters,A,Total Loss,None,1,1,19
+129.39,2000,58,9,High School,D,Minor Loss,None,1,1,6
+92.88,7000,47,83,Bachelor,A,Major Loss,Police,1,1,13
+88.43,7000,56,26,Bachelor,A,Total Loss,Ambulance,1,1,3
+121.28,8000,25,76,High School,A,Major Loss,Ambulance,1,1,5
+109.23,3000,42,109,MD,D,Major Loss,Police,1,1,15
+137.41,1000,36,79,MD,A,Minor Loss,Police,0,0,17
+129.0,8000,50,88,High School,A,Minor Loss,Police,1,0,1
+118.76,10000,54,7,College,A,Minor Loss,Ambulance,0,1,18
+128.51,5000,35,119,High School,A,Major Loss,Police,1,0,13
+88.95,4000,51,75,Bachelor,A,Total Loss,None,0,1,12
+136.6,10000,35,14,PhD,A,Major Loss,None,1,1,18
+118.69,7000,64,20,Masters,A,Total Loss,Police,1,0,13
+72.92,3000,48,60,Bachelor,A,Total Loss,None,1,1,18
+137.26,8000,48,60,College,A,Major Loss,Police,1,1,10
+74.6,9000,37,20,High School,A,Major Loss,Other,1,1,6
+105.39,5000,25,105,Bachelor,A,Major Loss,Police,1,1,18
+101.59,10000,36,73,High School,A,Major Loss,Other,1,1,9
+94.61,7000,55,85,College,A,Total Loss,Police,0,1,11
+90.18,1000,59,73,High School,A,Total Loss,None,1,1,0
+126.58,6000,46,114,Bachelor,A,Minor Loss,Police,1,1,6
+72.73,2000,40,42,High School,A,Minor Loss,Ambulance,1,1,4
+131.38,6000,52,8,College,A,Total Loss,Police,1,1,15
+139.24,6000,32,62,Bachelor,A,Total Loss,Other,1,0,12
+138.88,6000,57,71,Bachelor,A,Minor Loss,Other,1,1,18
+79.05,10000,31,76,Masters,A,Minor Loss,Police,1,0,5
+86.96,4000,57,63,High School,A,Major Loss,Other,1,0,19
+123.49,8000,40,98,Masters,A,Major Loss,Ambulance,1,0,10
+108.22,7000,43,101,MD,A,Minor Loss,Ambulance,1,0,12
+124.09,1000,39,58,MD,A,Minor Loss,Police,1,0,2
+133.34,4000,36,8,College,A,Major Loss,None,0,1,7
+88.62,8000,54,97,Bachelor,A,Minor Loss,Ambulance,0,1,5
+119.21,1000,62,64,Bachelor,A,Major Loss,Ambulance,0,0,11
+139.49,9000,63,94,Bachelor,A,Minor Loss,None,1,1,5
+77.22,10000,43,50,Bachelor,A,Total Loss,None,1,1,23
+102.47,2000,43,20,Bachelor,A,Total Loss,None,1,1,11
+85.24,2000,44,46,Bachelor,A,Total Loss,None,1,1,12
+131.91,3000,28,95,College,A,Minor Loss,Ambulance,1,1,11
+128.7,4000,37,98,High School,A,Total Loss,Police,0,0,10
+79.47,7000,43,66,High School,A,Total Loss,Ambulance,0,1,17
+85.31,7000,25,78,Bachelor,A,Major Loss,Other,1,1,10
+79.52,8000,47,102,PhD,A,Major Loss,Ambulance,1,1,10
+77.74,10000,34,59,High School,A,Total Loss,Ambulance,1,1,6
+124.27,5000,40,25,High School,A,Major Loss,Ambulance,1,1,15
+138.26,10000,48,43,High School,A,Minor Loss,Ambulance,0,1,0
+79.22,5000,43,106,Bachelor,A,Minor Loss,Ambulance,1,0,0
+127.42,3000,63,23,MD,A,Minor Loss,None,1,1,15
+110.27,8000,53,19,High School,A,Major Loss,Police,1,1,9
+111.74,2000,53,43,Bachelor,A,Total Loss,Other,1,1,11
+101.1,6000,60,19,MD,A,Major Loss,Ambulance,1,0,19
+124.86,7000,39,76,High School,A,Minor Loss,Police,0,0,21
+95.01,5000,50,33,Bachelor,A,Total Loss,Police,1,1,3
+99.24,10000,27,75,Bachelor,A,Minor Loss,None,1,0,3
+102.45,7000,41,75,Masters,D,Minor Loss,None,1,1,6
+72.87,2000,30,50,High School,A,Total Loss,Ambulance,1,1,10
+85.78,8000,42,18,Bachelor,D,Major Loss,None,0,1,17
+72.31,6000,55,38,Masters,A,Minor Loss,Other,1,1,17
+84.16,9000,55,72,High School,A,Total Loss,None,1,1,6
+135.85,8000,54,36,Bachelor,A,Major Loss,Ambulance,0,1,17
+97.31,2000,31,48,Masters,A,Total Loss,Ambulance,1,1,18
+130.82,3000,27,104,Bachelor,A,Total Loss,None,0,0,15
+108.94,9000,47,65,PhD,A,Total Loss,Other,0,1,20
+139.0,1000,55,84,High School,A,Major Loss,Police,1,0,12
+99.04,9000,36,8,Bachelor,A,Minor Loss,Ambulance,1,1,23
+119.7,4000,55,98,Bachelor,A,Major Loss,Ambulance,1,1,7
+99.99,8000,55,42,High School,A,Minor Loss,Ambulance,1,0,8
+139.49,8000,56,93,College,A,Minor Loss,Ambulance,0,1,3
+111.48,9000,50,28,PhD,D,Major Loss,Police,1,1,14
+121.21,6000,33,93,Bachelor,A,Major Loss,Ambulance,0,0,19
+117.67,9000,32,64,High School,A,Minor Loss,Ambulance,1,1,9
+117.63,1000,42,82,Masters,A,Major Loss,Ambulance,1,1,16
+82.89,2000,44,94,High School,A,Major Loss,None,0,1,8
+76.14,7000,57,95,High School,A,Total Loss,None,0,1,23
+74.98,9000,41,58,PhD,A,Minor Loss,Ambulance,1,1,20
+95.63,1000,54,72,Bachelor,A,Minor Loss,None,1,1,21
+115.86,10000,29,58,High School,A,Minor Loss,None,1,1,5
+102.29,3000,36,23,High School,A,Total Loss,Police,1,1,15
+103.98,8000,44,54,Bachelor,A,Major Loss,Ambulance,1,0,15
+138.89,9000,56,88,College,D,Major Loss,Ambulance,1,1,21
+134.15,8000,44,99,Masters,A,Major Loss,None,1,1,20
+136.76,9000,36,102,Bachelor,A,Total Loss,Other,1,1,14
+79.61,2000,52,113,Bachelor,A,Minor Loss,Police,0,1,23
+111.27,6000,48,68,Masters,A,Total Loss,Police,1,1,21
+89.24,9000,31,108,College,D,Total Loss,Police,0,0,20
+71.67,10000,29,44,Bachelor,A,Minor Loss,Ambulance,0,1,12
+135.01,5000,64,25,PhD,A,Total Loss,Police,0,1,3
+103.73,1000,64,26,High School,A,Total Loss,Police,1,1,1
+88.74,10000,36,107,Masters,A,Total Loss,Police,1,1,5
+76.74,9000,49,90,Masters,A,Major Loss,Police,1,1,10
+112.92,5000,33,19,Bachelor,A,Total Loss,None,1,1,21
+121.05,6000,60,47,Masters,A,Total Loss,Ambulance,0,1,22
+111.73,6000,50,16,High School,A,Minor Loss,Police,0,1,17
+106.89,9000,47,13,MD,A,Total Loss,Ambulance,1,1,0
+106.91,8000,34,33,High School,A,Total Loss,Police,0,1,5
+103.18,9000,37,72,College,A,Major Loss,Police,1,1,4
+136.09,1000,32,18,College,A,Total Loss,Police,1,1,12
+114.12,7000,63,35,Bachelor,A,Major Loss,Ambulance,1,1,10
+114.52,10000,47,82,High School,A,Total Loss,Ambulance,1,1,10
+109.18,5000,63,66,Bachelor,A,Major Loss,None,1,1,5
+92.6,3000,49,26,College,A,Major Loss,Police,1,1,8
+131.22,6000,32,49,High School,A,Minor Loss,Police,1,0,4
+88.6,4000,26,63,Masters,A,Minor Loss,None,1,1,7
+76.38,10000,50,91,Bachelor,A,Major Loss,None,1,1,21
+127.37,3000,64,30,Masters,A,Total Loss,Ambulance,1,0,23
+97.47,7000,41,91,Masters,D,Major Loss,Police,1,1,14
+131.47,9000,55,83,Bachelor,A,Major Loss,Police,0,1,4
+95.15,5000,35,91,High School,A,Major Loss,Ambulance,1,1,7
+125.14,4000,52,36,Bachelor,A,Minor Loss,Ambulance,1,1,18
+131.59,4000,59,76,Bachelor,A,Major Loss,Other,1,1,19
+90.31,8000,40,61,Bachelor,A,Minor Loss,Ambulance,0,1,9
+109.36,2000,45,17,MD,A,Minor Loss,Police,0,1,4
+117.1,2000,46,49,Bachelor,A,Total Loss,Police,0,1,22
+100.57,10000,35,102,High School,A,Minor Loss,Police,1,1,6
+83.86,4000,47,36,Bachelor,A,Major Loss,Ambulance,0,0,3
+71.97,8000,59,72,Masters,A,Minor Loss,Ambulance,0,1,1
+92.8,4000,25,12,Bachelor,A,Total Loss,Ambulance,1,0,18
+72.55,5000,28,72,Masters,D,Major Loss,Ambulance,0,0,9
+121.52,1000,36,107,College,A,Minor Loss,Ambulance,1,1,11
+75.38,2000,30,31,Bachelor,A,Total Loss,Ambulance,0,0,2
+87.02,1000,25,13,MD,A,Total Loss,Ambulance,1,0,19
+129.25,1000,58,66,High School,A,Minor Loss,Police,1,1,0
+72.56,3000,47,61,Bachelor,A,Minor Loss,Other,1,1,1
+130.83,1000,56,30,High School,A,Minor Loss,Ambulance,1,0,1
+105.85,6000,55,105,High School,A,Total Loss,Other,1,0,23
+139.73,8000,43,9,Bachelor,A,Minor Loss,Ambulance,1,1,19
+123.23,9000,49,99,Bachelor,A,Minor Loss,Police,1,0,13
+78.89,9000,42,113,High School,A,Minor Loss,Ambulance,0,1,9
+109.68,2000,26,64,High School,A,Major Loss,Police,0,1,19
+103.62,3000,26,26,High School,A,Total Loss,Other,1,0,13
+134.16,5000,35,21,Bachelor,A,Major Loss,Ambulance,0,1,2
+134.61,3000,25,60,Bachelor,A,Total Loss,Ambulance,1,1,23
+124.9,3000,63,14,High School,A,Minor Loss,None,0,0,13
+124.05,3000,48,38,High School,A,Total Loss,Ambulance,0,0,2
+87.65,7000,31,30,High School,A,Total Loss,Ambulance,0,0,20
+70.05,9000,48,39,Masters,A,Total Loss,Ambulance,1,1,19
+73.62,7000,61,91,High School,A,Total Loss,Ambulance,0,1,0
+96.11,8000,56,103,Bachelor,A,Minor Loss,None,1,1,14
+75.72,5000,49,18,College,A,Major Loss,Police,1,0,3
+79.59,10000,41,38,Masters,A,Major Loss,None,1,1,17
+114.18,7000,64,8,High School,A,Total Loss,Police,0,1,17
+103.16,9000,57,30,High School,A,Total Loss,Ambulance,1,1,7
+99.92,8000,54,110,Bachelor,A,Minor Loss,Police,0,0,1
+105.16,10000,31,82,Bachelor,A,Total Loss,None,1,1,1
+87.52,4000,58,43,High School,A,Minor Loss,Police,1,1,18
+111.74,3000,50,85,College,A,Major Loss,Ambulance,0,1,18
+123.71,1000,42,49,High School,A,Minor Loss,Police,0,1,18
+90.37,2000,32,38,PhD,A,Minor Loss,None,1,0,14
+85.9,1000,25,99,High School,A,Total Loss,None,1,0,10
+125.71,9000,55,73,Bachelor,A,Total Loss,Police,1,1,16
+122.97,4000,43,30,Bachelor,A,Minor Loss,Ambulance,1,1,19
+115.27,8000,57,109,High School,A,Minor Loss,Ambulance,0,1,5
+91.34,3000,60,82,High School,A,Total Loss,Ambulance,0,1,1
+127.23,2000,55,76,Bachelor,A,Minor Loss,Ambulance,1,1,8
+86.5,8000,32,84,Bachelor,A,Minor Loss,Ambulance,1,1,18
+93.98,2000,40,14,High School,A,Minor Loss,None,1,1,17
+85.52,6000,64,37,Bachelor,A,Major Loss,Ambulance,1,1,21
+78.71,2000,50,88,Bachelor,A,Minor Loss,Ambulance,1,0,15
+123.84,4000,28,32,Bachelor,A,Minor Loss,Ambulance,1,1,10
+79.39,9000,37,115,High School,A,Total Loss,Other,1,1,23
+81.79,7000,51,70,High School,A,Major Loss,Police,0,1,1
+123.35,2000,36,67,Bachelor,A,Major Loss,None,1,1,8
+82.89,2000,55,107,Bachelor,A,Major Loss,Ambulance,0,0,1
+128.29,4000,49,82,College,A,Major Loss,Other,1,1,10
+91.43,10000,55,102,Bachelor,A,Major Loss,Police,1,1,5
+102.25,5000,53,28,Bachelor,A,Minor Loss,Police,1,1,11
+132.48,3000,62,115,High School,A,Minor Loss,None,1,1,14
+95.37,7000,43,18,Bachelor,A,Total Loss,Police,0,0,6
+109.85,6000,57,38,Bachelor,A,Total Loss,Ambulance,1,1,18
+84.56,10000,54,17,Bachelor,A,Total Loss,None,1,1,18
+80.4,6000,57,94,Bachelor,A,Total Loss,None,1,1,14
+127.71,3000,41,97,High School,A,Total Loss,Police,1,1,8
+78.41,1000,32,113,High School,A,Total Loss,Ambulance,1,1,21
+78.07,8000,57,88,College,A,Minor Loss,Other,0,0,12
+125.38,1000,53,39,Masters,A,Minor Loss,Ambulance,1,0,5
+81.92,1000,58,23,High School,A,Total Loss,Police,0,1,1
+70.85,2000,37,94,Bachelor,A,Major Loss,Ambulance,1,1,3
+126.46,10000,58,24,PhD,A,Minor Loss,Other,0,1,11
+131.26,4000,26,46,High School,A,Minor Loss,Police,1,0,9
+138.06,7000,47,47,High School,A,Major Loss,Ambulance,1,1,16
+138.95,4000,45,99,High School,A,Minor Loss,Police,0,0,8
+73.41,4000,28,31,Bachelor,A,Major Loss,None,1,1,9
+116.63,1000,31,28,Bachelor,A,Total Loss,Police,0,1,17
+104.02,5000,32,65,Bachelor,A,Total Loss,Ambulance,1,1,7
+137.05,2000,31,112,College,A,Major Loss,Other,1,0,6
+118.69,4000,33,47,High School,A,Total Loss,None,0,0,23
+73.06,1000,51,104,Bachelor,A,Total Loss,Police,0,1,6
+102.35,8000,45,38,High School,A,Minor Loss,Ambulance,0,1,16
+115.19,10000,45,94,College,A,Major Loss,Police,1,1,11
+99.45,6000,43,25,College,A,Minor Loss,Ambulance,1,1,20
+112.81,10000,26,62,Bachelor,D,Major Loss,Police,0,1,14
+133.69,5000,35,108,Bachelor,A,Minor Loss,Ambulance,1,0,19
+116.3,4000,41,30,Bachelor,A,Major Loss,Police,0,1,6
+112.84,6000,40,66,PhD,A,Major Loss,Police,1,1,23
+81.86,1000,55,78,College,A,Total Loss,Ambulance,1,1,17
+92.95,2000,35,112,Bachelor,A,Minor Loss,None,0,1,6
+81.21,1000,64,70,Bachelor,A,Total Loss,Police,1,0,13
+131.42,1000,44,16,High School,A,Total Loss,Ambulance,1,0,17
+113.73,5000,50,88,MD,A,Total Loss,Ambulance,1,1,19
+122.66,9000,35,82,Bachelor,A,Total Loss,None,0,1,2
+118.68,7000,26,9,Bachelor,A,Major Loss,None,0,1,4
+77.68,6000,35,30,High School,A,Major Loss,Ambulance,1,0,15
+95.47,1000,63,62,Bachelor,A,Total Loss,None,1,1,23
+84.63,9000,51,66,Bachelor,A,Minor Loss,None,1,1,4
+93.42,5000,27,115,High School,A,Major Loss,Police,1,1,19
+79.4,6000,28,88,MD,A,Major Loss,Other,1,0,10
+110.3,9000,64,63,High School,A,Major Loss,Ambulance,1,0,2
+85.8,7000,57,7,Bachelor,A,Total Loss,None,1,0,14
+77.32,2000,25,81,High School,A,Total Loss,Ambulance,1,1,22
+77.06,10000,62,13,College,A,Total Loss,Ambulance,0,1,4
+71.04,2000,42,22,Masters,A,Minor Loss,Police,0,1,10
+128.31,7000,62,32,High School,A,Total Loss,Police,1,0,6
+115.16,5000,35,91,College,A,Total Loss,Other,1,1,7
+115.57,7000,26,49,Bachelor,A,Total Loss,Police,0,1,7
+134.44,3000,30,18,Masters,A,Total Loss,Ambulance,1,1,12
+77.02,10000,47,91,High School,A,Major Loss,Ambulance,1,0,17
+118.7,5000,55,76,Masters,A,Total Loss,Ambulance,0,1,6
+106.22,9000,36,12,Bachelor,A,Total Loss,Ambulance,1,0,15
+136.61,1000,37,25,Masters,A,Total Loss,None,1,0,15
+90.47,9000,32,112,Bachelor,A,Total Loss,None,0,1,8
+122.82,4000,33,89,High School,A,Minor Loss,Other,1,0,2
+103.31,3000,49,27,Bachelor,A,Minor Loss,Police,0,1,15
+114.39,7000,25,56,Masters,A,Major Loss,None,0,0,4
+75.73,5000,32,92,MD,A,Total Loss,Police,1,1,4
+97.63,7000,41,101,High School,A,Total Loss,Ambulance,1,1,15
+120.53,3000,47,101,Bachelor,A,Minor Loss,Police,1,1,21
+129.28,10000,38,74,High School,A,Major Loss,Police,1,1,14
+95.31,6000,51,21,Bachelor,A,Major Loss,Ambulance,1,1,23
+85.43,3000,39,40,Bachelor,A,Minor Loss,Police,1,1,1
+73.79,9000,48,93,College,A,Total Loss,None,0,1,15
+78.08,10000,35,56,Bachelor,A,Major Loss,None,0,0,18
+110.01,9000,60,58,Bachelor,A,Minor Loss,None,0,1,12
+122.3,2000,48,75,MD,A,Major Loss,Ambulance,1,0,13
+73.72,9000,30,35,High School,A,Minor Loss,Police,1,1,16
+94.17,8000,41,15,Bachelor,D,Total Loss,Ambulance,1,1,6
+112.23,3000,30,61,Bachelor,A,Minor Loss,Ambulance,0,1,17
+108.16,10000,26,21,Bachelor,A,Total Loss,Police,1,1,8
+132.64,4000,57,85,Bachelor,A,Total Loss,None,1,1,20
+128.55,7000,35,20,High School,A,Total Loss,None,0,1,8
+83.14,4000,43,65,Bachelor,A,Major Loss,Ambulance,1,1,3
+85.75,9000,45,73,High School,A,Total Loss,None,1,1,4
+110.42,4000,28,19,High School,A,Total Loss,None,1,1,15
+136.95,7000,25,38,College,A,Major Loss,None,1,0,22
+77.77,9000,53,44,Bachelor,A,Minor Loss,Ambulance,1,1,21
+136.66,4000,30,63,High School,A,Total Loss,Police,0,1,15
+71.15,10000,40,52,Bachelor,A,Total Loss,None,1,0,6
+79.2,8000,48,71,Bachelor,A,Minor Loss,Ambulance,0,1,4
+129.66,4000,29,104,Bachelor,A,Minor Loss,Ambulance,0,0,3
+109.55,3000,29,16,PhD,A,Minor Loss,Ambulance,1,1,18
+86.01,9000,46,77,High School,A,Major Loss,Ambulance,1,1,0
+128.35,10000,49,102,College,D,Total Loss,None,0,1,7
+105.73,10000,39,117,Masters,A,Major Loss,Police,0,1,11
+120.33,3000,59,49,Bachelor,A,Major Loss,None,1,0,19
+127.66,5000,38,80,Bachelor,A,Minor Loss,Ambulance,1,1,11
+104.66,5000,62,61,Bachelor,A,Total Loss,Police,1,1,5
+139.12,9000,56,44,Bachelor,A,Total Loss,Ambulance,0,1,13
+105.84,8000,51,90,Masters,A,Major Loss,Police,1,1,3
+116.09,4000,47,18,PhD,A,Minor Loss,Ambulance,0,0,8
+123.44,5000,53,77,Bachelor,A,Minor Loss,Ambulance,1,1,5
+118.18,2000,43,84,High School,A,Minor Loss,Ambulance,0,1,7
+73.53,4000,42,35,Bachelor,A,Major Loss,Police,1,1,0
+80.01,6000,52,69,High School,A,Total Loss,Other,1,0,13
+123.97,4000,56,97,Bachelor,A,Major Loss,Other,0,1,17
+116.62,5000,48,110,Bachelor,A,Minor Loss,Police,1,1,15
+106.28,10000,25,53,College,A,Total Loss,Ambulance,1,1,10
+109.72,4000,26,85,MD,A,Minor Loss,Ambulance,1,1,19
+99.55,3000,34,96,High School,A,Minor Loss,Ambulance,1,0,1
+78.73,3000,26,42,Bachelor,A,Total Loss,Police,0,0,17
+126.54,9000,54,76,PhD,A,Total Loss,Ambulance,1,1,5
+107.21,2000,49,72,High School,A,Major Loss,None,1,1,15
+107.19,8000,43,72,Bachelor,A,Total Loss,Police,1,1,11
+94.68,8000,63,26,MD,A,Minor Loss,Ambulance,1,1,2
+70.1,8000,55,15,High School,A,Minor Loss,Ambulance,1,1,11
+139.43,1000,51,25,Bachelor,A,Minor Loss,Ambulance,1,0,16
+137.79,8000,64,74,Bachelor,A,Major Loss,Ambulance,0,1,2
+92.06,4000,40,8,High School,D,Major Loss,Ambulance,1,1,1
+90.25,2000,38,103,Bachelor,A,Total Loss,Police,0,1,15
+116.24,3000,33,89,College,A,Total Loss,Police,0,0,9
+109.99,5000,48,77,High School,A,Major Loss,Ambulance,1,0,9
+135.2,10000,63,105,High School,A,Total Loss,Police,1,1,7
+98.66,10000,50,82,Bachelor,D,Major Loss,Police,1,1,2
+124.03,3000,53,33,High School,A,Minor Loss,Police,1,1,8
+71.51,8000,29,64,Bachelor,A,Total Loss,Other,1,0,1
+116.33,1000,43,45,Masters,A,Minor Loss,None,1,1,16
+103.26,4000,25,21,College,A,Total Loss,Ambulance,1,0,0
+121.98,1000,47,113,Bachelor,A,Minor Loss,None,0,1,3
+109.43,5000,28,80,College,A,Minor Loss,Other,0,1,16
+108.38,4000,31,54,High School,A,Minor Loss,Other,1,1,13
+100.74,6000,26,115,High School,A,Total Loss,Police,1,1,8
+92.15,3000,32,19,Bachelor,A,Total Loss,Ambulance,1,1,18
+82.86,9000,64,43,Bachelor,A,Major Loss,Ambulance,1,1,10
+88.26,10000,27,116,MD,A,Major Loss,Ambulance,0,0,4
+101.08,2000,41,47,Bachelor,A,Major Loss,Ambulance,0,1,14
+109.23,4000,58,35,High School,A,Major Loss,Police,0,1,7
+93.91,9000,34,40,High School,A,Total Loss,Ambulance,0,1,17
+133.12,8000,43,62,Bachelor,A,Minor Loss,Ambulance,1,1,11
+87.6,1000,64,107,High School,A,Minor Loss,Police,0,1,6
+96.52,1000,38,111,Bachelor,A,Minor Loss,Other,0,1,8
+107.56,2000,58,70,High School,D,Minor Loss,None,1,1,5
+106.78,5000,47,22,High School,A,Minor Loss,Ambulance,1,0,19
+73.42,6000,26,43,Bachelor,A,Minor Loss,Police,1,0,5
+136.94,10000,49,80,Masters,A,Total Loss,Ambulance,1,1,7
+139.73,4000,45,76,Bachelor,A,Total Loss,Ambulance,0,1,7
+73.25,1000,35,20,High School,A,Minor Loss,Police,1,1,7
+133.87,2000,30,115,Bachelor,A,Total Loss,Ambulance,1,1,19
+119.06,10000,61,93,Bachelor,A,Minor Loss,Ambulance,0,1,0
+91.52,4000,29,59,High School,A,Major Loss,Ambulance,1,1,19
+78.22,7000,41,13,Bachelor,A,Major Loss,Police,1,1,18
+87.6,1000,53,53,College,A,Total Loss,Ambulance,1,1,9
+95.43,7000,38,47,Bachelor,A,Minor Loss,Ambulance,1,1,10
+78.5,1000,38,27,Bachelor,A,Total Loss,None,0,0,14
+135.79,5000,51,69,Bachelor,A,Total Loss,Police,0,1,16
+119.96,7000,58,60,Masters,A,Total Loss,None,1,1,14
+88.79,2000,43,100,PhD,A,Total Loss,None,1,1,12
+82.72,3000,54,90,Bachelor,A,Major Loss,Police,1,1,17
+100.58,3000,57,79,High School,A,Minor Loss,Police,0,0,21
+121.64,3000,50,35,Bachelor,A,Minor Loss,Ambulance,0,1,4
+106.34,1000,29,118,Masters,A,Total Loss,Police,0,1,8
+124.76,6000,47,84,Bachelor,A,Minor Loss,None,1,0,11
+100.63,5000,64,17,College,A,Total Loss,Ambulance,1,1,23
+114.78,3000,38,20,Bachelor,A,Minor Loss,Ambulance,0,0,5
+109.41,4000,60,107,Masters,A,Minor Loss,None,1,1,18
+93.17,9000,30,7,Bachelor,A,Total Loss,None,1,1,11
+77.83,1000,51,50,High School,A,Total Loss,Ambulance,1,1,5
+133.64,9000,62,98,Bachelor,A,Total Loss,Police,0,1,18
+110.22,8000,56,100,Masters,A,Minor Loss,None,1,1,6
+121.05,6000,28,79,High School,A,Total Loss,Ambulance,1,1,15
+118.57,9000,38,70,High School,A,Major Loss,Ambulance,0,1,4
+136.87,10000,25,14,MD,A,Minor Loss,Police,1,1,0
+130.79,9000,36,43,Masters,A,Minor Loss,Police,0,1,17
+109.2,3000,35,97,High School,A,Total Loss,None,0,0,18
+97.96,1000,60,9,College,A,Total Loss,Ambulance,1,1,15
+97.38,8000,40,19,Bachelor,A,Major Loss,None,1,1,12
+115.95,1000,54,45,Bachelor,D,Total Loss,Other,1,1,13
+138.41,8000,60,47,Bachelor,A,Total Loss,None,1,0,14
+76.35,10000,27,86,MD,A,Major Loss,Ambulance,1,0,20
+133.78,3000,25,80,MD,A,Major Loss,Police,1,1,1
+123.06,1000,47,117,Masters,A,Total Loss,Ambulance,1,1,4
+114.35,9000,32,6,PhD,A,Minor Loss,None,1,1,22
+126.03,6000,49,76,PhD,A,Major Loss,Ambulance,1,1,16
+118.53,9000,28,77,High School,A,Major Loss,Ambulance,1,1,4
+137.68,9000,26,9,High School,A,Total Loss,None,1,1,5
+72.37,9000,50,9,Bachelor,A,Minor Loss,Ambulance,1,1,0
+70.76,6000,53,36,MD,A,Total Loss,Ambulance,1,0,4
+112.45,4000,62,38,High School,A,Major Loss,Police,1,1,1
+110.85,3000,53,66,Bachelor,A,Total Loss,None,1,0,10
+128.66,6000,60,47,Bachelor,A,Major Loss,Ambulance,1,1,10
+126.68,4000,37,113,High School,A,Major Loss,Ambulance,1,0,8
+121.1,7000,33,51,Bachelor,A,Major Loss,None,0,0,9
+119.1,7000,37,91,College,A,Minor Loss,Ambulance,0,1,22
+82.33,10000,53,8,Masters,A,Minor Loss,Police,1,1,8
+120.94,9000,55,100,College,A,Total Loss,Police,1,0,22
+124.74,5000,45,19,High School,A,Major Loss,None,0,1,3
+100.27,8000,41,48,High School,A,Minor Loss,Police,1,1,3
+84.32,9000,56,100,High School,A,Minor Loss,None,1,1,20
+113.2,5000,44,106,Masters,A,Total Loss,Other,0,1,22
+106.69,1000,43,32,High School,A,Total Loss,Ambulance,1,1,14
+114.54,2000,30,23,Masters,A,Major Loss,Ambulance,0,1,0
+72.61,6000,25,18,Bachelor,A,Total Loss,Ambulance,1,1,20
+78.11,2000,50,30,PhD,D,Minor Loss,Ambulance,1,1,3
+113.96,8000,50,7,High School,A,Minor Loss,None,1,1,1
+102.79,2000,27,75,High School,A,Total Loss,Ambulance,0,1,14
+132.73,10000,36,97,Bachelor,A,Total Loss,None,1,1,13
+103.95,1000,60,52,College,A,Major Loss,Police,1,0,19
+123.17,3000,52,53,Masters,A,Minor Loss,Police,1,1,12
+100.4,6000,27,26,High School,A,Minor Loss,Police,1,0,20
+113.24,7000,46,49,High School,A,Minor Loss,Police,1,1,23
+73.92,1000,44,104,Bachelor,A,Total Loss,Ambulance,1,1,4
+94.31,6000,55,71,Bachelor,A,Major Loss,Ambulance,1,1,22
+127.41,5000,62,10,High School,A,Minor Loss,Ambulance,1,0,21
+122.09,4000,32,42,Bachelor,A,Total Loss,Ambulance,0,1,20
+95.86,7000,42,22,Bachelor,A,Total Loss,Police,1,1,7
+100.66,3000,42,44,High School,A,Major Loss,None,0,1,3
+101.84,3000,30,79,High School,A,Minor Loss,Police,0,1,6
+72.24,10000,54,41,High School,A,Minor Loss,Other,0,0,12
+125.13,10000,45,20,Masters,A,Minor Loss,Other,0,1,0
+92.05,7000,54,79,High School,A,Minor Loss,None,0,0,4
+124.7,5000,29,72,Bachelor,A,Total Loss,Police,0,1,1
+136.04,7000,53,38,College,A,Total Loss,Police,1,1,3
+134.84,8000,51,87,College,A,Total Loss,None,0,0,8
+96.6,9000,28,96,High School,A,Total Loss,Ambulance,1,1,0
+75.04,8000,33,94,MD,A,Total Loss,None,0,1,20
+76.54,2000,64,13,High School,A,Major Loss,Ambulance,1,0,22
+108.89,2000,25,39,Bachelor,A,Major Loss,Ambulance,0,1,2
+95.75,5000,51,92,High School,A,Major Loss,Police,1,0,15
+113.84,8000,64,119,PhD,A,Major Loss,Ambulance,0,0,8
+103.75,10000,64,91,College,A,Minor Loss,Other,1,1,0
+110.97,9000,53,58,Bachelor,A,Major Loss,Ambulance,1,0,10
+74.5,8000,58,20,High School,A,Major Loss,Police,0,1,13
+88.44,6000,58,6,MD,A,Minor Loss,Police,1,1,0
+87.59,4000,39,46,Bachelor,A,Minor Loss,Police,1,0,16
+132.44,5000,41,108,High School,D,Major Loss,Ambulance,1,1,9
+75.36,1000,35,25,High School,A,Minor Loss,Ambulance,1,1,6
+135.01,5000,38,110,Masters,A,Major Loss,None,1,1,6
+114.22,6000,37,48,Masters,A,Minor Loss,None,1,1,7
+139.0,9000,38,98,Bachelor,A,Minor Loss,Ambulance,0,0,4
+114.72,6000,53,15,Masters,A,Minor Loss,Other,1,1,9
+139.1,4000,31,16,Bachelor,D,Major Loss,Police,0,1,3
+89.53,4000,26,93,Bachelor,A,Major Loss,Ambulance,1,1,5
+105.72,10000,60,35,Masters,A,Minor Loss,Ambulance,0,1,2
+74.2,9000,35,32,Bachelor,A,Total Loss,Ambulance,1,1,11
+115.48,10000,63,99,High School,A,Minor Loss,Ambulance,1,0,20
+117.57,4000,51,34,Masters,A,Minor Loss,Police,1,0,23
+124.45,4000,43,79,High School,A,Minor Loss,Ambulance,1,0,20
+127.47,7000,35,27,MD,A,Major Loss,Ambulance,1,0,16
+71.29,9000,26,14,Bachelor,A,Total Loss,Police,0,1,9
+101.56,7000,58,9,Bachelor,A,Total Loss,Police,1,1,9
+129.41,6000,63,48,Masters,A,Major Loss,Ambulance,0,1,4
+116.24,10000,53,91,Bachelor,D,Minor Loss,Ambulance,1,1,7
+97.85,8000,30,109,High School,A,Total Loss,Ambulance,1,1,4
+77.33,6000,55,45,Bachelor,A,Total Loss,Police,1,1,18
+117.1,6000,35,15,Bachelor,A,Minor Loss,Police,0,1,4
+123.65,1000,35,78,Bachelor,A,Minor Loss,Police,1,1,21
+104.92,3000,38,18,Bachelor,A,Total Loss,None,1,1,19
+85.13,2000,31,48,College,A,Minor Loss,None,1,0,20
+99.76,10000,30,37,College,A,Total Loss,Police,1,1,2
+103.34,6000,50,67,PhD,A,Minor Loss,Ambulance,0,0,7
+87.65,6000,56,23,Masters,A,Total Loss,Police,0,1,3
+135.99,7000,46,80,High School,A,Total Loss,Ambulance,1,1,11
+120.8,9000,55,30,High School,A,Total Loss,Ambulance,1,1,2
+124.01,2000,62,68,High School,A,Minor Loss,Ambulance,0,1,5
+111.49,2000,63,79,MD,A,Minor Loss,Ambulance,1,1,16
+104.62,6000,63,86,Bachelor,A,Total Loss,Police,0,1,8
+91.88,9000,60,48,High School,A,Total Loss,None,0,1,11
+112.6,9000,48,46,Bachelor,A,Major Loss,None,1,0,22
+110.0,2000,45,92,College,A,Major Loss,Ambulance,1,1,15
+85.14,3000,31,88,High School,A,Total Loss,Police,0,1,1
+90.75,2000,58,104,High School,A,Total Loss,Ambulance,1,1,4
+117.46,9000,42,31,Bachelor,A,Minor Loss,Ambulance,1,0,19
+101.26,9000,33,25,High School,A,Minor Loss,Police,1,0,15
+81.7,7000,37,16,Bachelor,A,Total Loss,Other,1,1,18
+99.9,10000,51,98,High School,A,Total Loss,Ambulance,1,0,4
+126.42,9000,46,46,Bachelor,A,Major Loss,Ambulance,0,1,14
+125.53,1000,62,6,High School,A,Minor Loss,Ambulance,1,1,13
+126.21,9000,59,8,Bachelor,A,Minor Loss,None,0,0,11
+132.6,8000,53,59,Bachelor,A,Minor Loss,Police,0,1,19
+109.06,5000,29,91,MD,A,Total Loss,Ambulance,0,1,0
+88.8,4000,47,50,Bachelor,A,Total Loss,Police,1,1,21
+78.21,10000,40,51,High School,A,Minor Loss,Other,1,1,6
+109.9,6000,60,116,MD,A,Major Loss,Ambulance,1,0,12
+128.33,6000,49,47,High School,A,Total Loss,Police,1,1,3
+134.88,5000,55,118,Bachelor,A,Minor Loss,None,0,1,7
+121.51,8000,64,92,College,A,Minor Loss,None,0,0,6
+118.53,8000,51,64,Bachelor,D,Major Loss,None,1,1,5
+118.02,1000,47,46,PhD,A,Minor Loss,None,1,1,15
+131.31,9000,64,32,High School,A,Minor Loss,Police,1,0,2
+124.69,2000,57,41,Bachelor,A,Major Loss,Ambulance,1,1,19
+88.31,9000,25,108,High School,A,Minor Loss,Police,1,1,17
+108.63,6000,59,87,Masters,A,Major Loss,None,1,0,8
+78.84,3000,30,87,Masters,A,Total Loss,Ambulance,1,0,14
+109.95,8000,27,65,Bachelor,A,Minor Loss,None,1,1,8
+103.2,10000,62,30,Masters,A,Total Loss,None,1,1,16
+137.29,1000,48,112,Bachelor,A,Minor Loss,Ambulance,0,1,23
+98.91,7000,58,50,Bachelor,A,Total Loss,None,1,1,7
+73.48,8000,64,89,Bachelor,A,Major Loss,None,1,1,13
+120.34,7000,31,12,MD,A,Major Loss,None,0,1,15
+110.43,7000,37,115,High School,A,Major Loss,Ambulance,1,0,0
+82.58,10000,55,6,Bachelor,A,Major Loss,Other,1,0,19
+105.08,9000,51,10,Masters,A,Total Loss,Police,1,1,2
+109.39,8000,40,6,Bachelor,A,Total Loss,None,1,0,8
+121.48,5000,37,36,Bachelor,A,Minor Loss,Ambulance,0,1,1
+87.28,1000,63,26,Bachelor,A,Minor Loss,None,0,0,4
+135.18,8000,25,79,High School,A,Minor Loss,Other,1,1,8
+108.2,7000,54,61,College,A,Minor Loss,None,1,0,14
+96.44,7000,60,95,Bachelor,A,Minor Loss,None,1,1,5
+83.28,9000,57,88,Bachelor,A,Minor Loss,Ambulance,1,1,2
+90.03,2000,55,74,High School,A,Minor Loss,Police,1,0,7
+130.32,7000,29,79,High School,A,Minor Loss,Police,1,1,16
+120.87,3000,34,113,College,A,Major Loss,Police,1,1,7
+108.36,2000,25,74,Bachelor,A,Total Loss,Ambulance,1,1,5
+74.52,7000,29,69,Bachelor,A,Major Loss,Police,1,0,23
+94.36,7000,46,85,High School,A,Major Loss,Police,1,1,18
+96.91,9000,63,112,High School,A,Total Loss,Police,1,0,11
+71.29,8000,37,116,Bachelor,A,Total Loss,Police,0,1,3
+132.39,9000,40,111,Bachelor,A,Major Loss,Police,1,0,2
+138.72,2000,60,89,College,A,Minor Loss,None,0,1,15
+104.68,1000,63,28,Bachelor,A,Total Loss,Police,1,1,15
+70.92,9000,37,75,High School,A,Minor Loss,Ambulance,0,0,23
+89.5,4000,36,28,College,A,Major Loss,None,0,1,18
+80.17,4000,52,78,College,A,Total Loss,Police,0,1,3
+134.56,2000,42,89,MD,A,Total Loss,Ambulance,0,0,3
+119.44,7000,26,63,Bachelor,A,Total Loss,Ambulance,0,1,13
+129.18,7000,53,48,PhD,A,Minor Loss,Police,1,1,18
+97.75,3000,28,28,Masters,A,Minor Loss,Police,0,1,5
+123.18,2000,25,80,Bachelor,A,Total Loss,None,1,1,5
+100.37,6000,44,23,High School,A,Major Loss,Other,1,1,9
+108.78,6000,27,68,Bachelor,A,Minor Loss,Police,1,0,16
+94.94,2000,60,12,Masters,A,Total Loss,Other,1,0,22
+83.24,5000,55,70,High School,A,Total Loss,Ambulance,1,1,22
+91.66,9000,61,75,Bachelor,A,Major Loss,Police,1,1,10
+131.92,3000,27,15,High School,A,Major Loss,Ambulance,0,0,15
+117.77,6000,38,92,High School,A,Minor Loss,Ambulance,1,0,20
+93.52,4000,34,7,High School,A,Major Loss,Ambulance,1,1,6
+81.12,5000,42,77,Bachelor,A,Minor Loss,Ambulance,1,1,0
+99.69,10000,52,99,Masters,A,Major Loss,Police,1,1,20
+128.16,7000,51,23,Bachelor,A,Minor Loss,Ambulance,1,1,2
+76.86,10000,50,14,Bachelor,A,Major Loss,Police,1,1,10
+86.11,5000,53,68,PhD,A,Major Loss,None,0,1,1
+81.73,2000,64,105,High School,A,Minor Loss,Police,0,0,19
+130.59,7000,55,58,Bachelor,A,Major Loss,Police,1,1,22
+73.52,1000,60,68,Bachelor,A,Total Loss,None,1,0,18
+71.41,10000,43,20,Bachelor,D,Total Loss,Ambulance,1,0,21
+81.36,3000,39,50,Bachelor,A,Minor Loss,None,0,1,13
+125.96,10000,27,54,Bachelor,A,Major Loss,Ambulance,1,1,14
+91.06,2000,29,47,Bachelor,D,Minor Loss,None,1,1,0
+101.34,6000,55,102,College,A,Minor Loss,None,0,1,21
+79.48,8000,32,73,PhD,A,Minor Loss,Ambulance,1,1,0
+87.71,8000,52,68,Masters,A,Total Loss,Police,1,1,16
+119.05,3000,40,83,High School,A,Major Loss,Ambulance,1,1,4
+130.89,1000,62,119,College,A,Minor Loss,Police,1,1,2
+108.01,1000,29,27,Bachelor,A,Major Loss,Police,1,0,10
+93.88,9000,57,78,High School,A,Total Loss,Police,0,1,16
+137.02,1000,46,19,Bachelor,A,Minor Loss,Police,1,1,22
+78.5,4000,30,15,High School,A,Total Loss,Ambulance,1,1,12
+93.66,10000,43,64,Bachelor,A,Total Loss,Police,1,1,10
+116.34,5000,32,61,Bachelor,A,Total Loss,None,1,0,13
+73.49,3000,56,118,College,A,Total Loss,Police,1,1,15
+104.07,7000,57,84,MD,A,Minor Loss,Police,0,1,7
+78.93,9000,28,69,Bachelor,A,Major Loss,None,0,1,9
+84.09,3000,33,39,High School,A,Major Loss,Ambulance,1,0,2
+72.03,9000,51,114,High School,A,Total Loss,None,1,0,18
+70.56,10000,58,97,Bachelor,A,Major Loss,None,1,1,23
+84.45,10000,53,115,MD,A,Total Loss,Police,0,1,7
+99.51,3000,39,114,Bachelor,A,Major Loss,Ambulance,1,1,19
+131.56,7000,64,48,Bachelor,A,Minor Loss,Ambulance,1,1,8
+103.53,4000,50,61,Bachelor,A,Major Loss,Police,1,1,6
+91.8,1000,38,101,Masters,A,Minor Loss,Police,1,1,20
+114.97,8000,41,31,Bachelor,A,Major Loss,Ambulance,1,1,21
+103.19,3000,26,70,High School,A,Total Loss,Ambulance,1,1,7
+139.05,2000,44,56,Bachelor,A,Minor Loss,Police,0,1,23
+72.52,4000,56,6,Masters,A,Total Loss,Ambulance,1,1,16
+125.89,6000,39,115,High School,A,Minor Loss,None,1,1,9
+138.12,9000,27,93,High School,A,Total Loss,Other,0,1,1
+129.84,10000,33,11,College,A,Minor Loss,Other,0,1,14
+91.8,5000,33,55,Masters,A,Major Loss,None,0,1,1
+102.22,2000,63,86,Bachelor,A,Minor Loss,Ambulance,1,0,11
+104.07,5000,60,54,Bachelor,A,Minor Loss,Other,1,0,12
+111.08,7000,53,48,College,A,Minor Loss,Ambulance,0,1,7
+83.16,1000,54,79,College,A,Minor Loss,Police,1,1,15
+87.9,9000,39,75,Masters,A,Total Loss,Ambulance,1,1,16
+122.8,1000,53,115,High School,A,Major Loss,Police,1,1,0
+83.53,9000,48,91,Bachelor,A,Minor Loss,Ambulance,1,1,1
+112.99,7000,37,19,Bachelor,A,Minor Loss,Ambulance,1,1,9
+100.1,7000,35,99,High School,A,Major Loss,Police,1,1,17
+136.73,9000,57,42,Bachelor,A,Total Loss,Ambulance,0,1,12
+109.92,10000,43,99,Bachelor,A,Major Loss,None,1,1,7
+123.22,3000,25,76,MD,A,Total Loss,Police,1,1,15
+79.36,7000,61,108,High School,A,Total Loss,Police,1,1,15
+112.15,4000,44,27,High School,A,Major Loss,Police,1,1,22
+112.67,9000,38,106,High School,A,Total Loss,Police,1,1,1
+98.92,1000,37,8,College,A,Minor Loss,None,0,1,12
+90.65,3000,27,65,Bachelor,A,Major Loss,None,1,0,20
+98.25,1000,45,117,Bachelor,A,Major Loss,Police,1,1,7
+135.58,6000,36,42,PhD,A,Major Loss,Police,1,1,0
+95.13,7000,47,30,Masters,A,Total Loss,Police,0,1,3
+90.17,6000,61,7,Bachelor,A,Minor Loss,Other,1,0,20
+96.64,1000,43,42,High School,A,Total Loss,Police,0,0,11
+122.66,6000,57,50,Bachelor,A,Minor Loss,Ambulance,1,1,1
+125.85,5000,46,49,Masters,A,Minor Loss,Other,1,1,23
+102.35,9000,42,114,MD,A,Minor Loss,Other,1,1,8
+124.84,2000,54,101,Bachelor,A,Major Loss,None,1,1,5
+114.03,6000,59,92,MD,A,Minor Loss,Ambulance,1,0,8
+102.73,1000,57,38,Bachelor,A,Minor Loss,None,1,1,22
+130.43,3000,54,7,Bachelor,A,Total Loss,Ambulance,1,1,13
+115.99,4000,54,21,High School,A,Major Loss,Police,1,1,10
+99.21,2000,30,12,PhD,A,Total Loss,Police,1,1,21
+92.04,7000,56,116,Bachelor,A,Major Loss,Ambulance,1,0,10
+85.77,2000,62,94,Bachelor,A,Major Loss,Ambulance,0,1,5
+97.65,5000,36,102,Bachelor,A,Total Loss,Ambulance,0,1,8
+110.77,4000,39,27,College,A,Total Loss,Police,1,1,0
+135.82,3000,58,49,Bachelor,A,Major Loss,Ambulance,1,1,23
+119.39,4000,41,12,Masters,A,Total Loss,Police,1,1,12
+120.04,3000,47,62,High School,A,Total Loss,None,0,1,12
+91.45,8000,59,115,High School,D,Major Loss,Ambulance,0,0,5
+74.11,8000,45,86,Bachelor,A,Major Loss,Ambulance,1,1,6
+88.47,7000,51,93,High School,D,Total Loss,None,0,0,7
+124.2,2000,29,38,Bachelor,A,Total Loss,Police,0,1,21
+79.74,7000,58,28,High School,A,Major Loss,Police,1,1,3
+118.17,1000,61,100,High School,A,Major Loss,Police,1,1,21
+129.07,2000,46,103,Bachelor,A,Major Loss,None,1,1,6
+136.02,7000,46,61,High School,A,Minor Loss,Police,1,1,23
+111.3,7000,28,28,College,D,Major Loss,Ambulance,1,1,3
+93.6,3000,51,12,Masters,A,Total Loss,Police,1,0,3
+95.38,5000,62,38,High School,A,Total Loss,Police,1,1,11
+123.38,3000,47,36,Masters,A,Total Loss,None,1,1,18
+119.12,6000,36,119,Bachelor,A,Major Loss,Police,1,1,0
+88.97,10000,31,71,Bachelor,A,Major Loss,Ambulance,1,1,23
+71.38,6000,53,108,Masters,A,Total Loss,Ambulance,1,1,18
+138.76,3000,57,21,Bachelor,D,Total Loss,Police,1,1,2
+87.05,2000,47,117,High School,A,Total Loss,Ambulance,1,1,0
+100.08,1000,47,27,Bachelor,A,Major Loss,Police,1,1,4
+113.03,2000,61,97,Bachelor,A,Minor Loss,Police,0,1,23
+139.72,4000,41,113,High School,A,Minor Loss,Police,0,1,2
+124.91,5000,31,98,Bachelor,A,Total Loss,None,1,1,1
+128.24,9000,28,61,Bachelor,A,Minor Loss,None,1,1,2
+124.23,6000,34,79,Masters,A,Minor Loss,Other,0,0,5
+125.16,1000,52,113,Bachelor,A,Minor Loss,Other,1,1,21
+132.14,6000,53,20,High School,A,Minor Loss,Ambulance,0,0,22
+78.83,5000,32,81,Bachelor,A,Major Loss,None,1,1,6
+82.78,8000,27,23,Bachelor,A,Major Loss,Other,1,0,15
+121.26,8000,31,93,Bachelor,A,Total Loss,Police,1,0,3
+135.07,10000,41,80,Bachelor,D,Minor Loss,Ambulance,0,1,15
+93.55,10000,36,101,High School,A,Total Loss,None,0,0,2
+86.82,4000,43,80,High School,A,Minor Loss,Other,1,1,17
+94.34,8000,36,76,Masters,A,Major Loss,Ambulance,1,1,10
+98.16,8000,51,111,Bachelor,A,Minor Loss,Police,1,1,18
+124.21,7000,29,8,High School,A,Major Loss,None,1,0,23
+125.33,4000,32,82,Bachelor,A,Major Loss,Other,1,0,15
+81.17,9000,33,107,High School,A,Minor Loss,Police,1,1,18
+72.95,5000,34,80,Bachelor,A,Major Loss,Ambulance,0,1,5
+130.76,3000,46,105,Bachelor,A,Minor Loss,Ambulance,0,1,3
+92.25,10000,39,38,Bachelor,A,Total Loss,None,0,1,9
+112.94,1000,39,116,College,A,Minor Loss,None,0,0,4
+71.36,5000,42,92,PhD,A,Major Loss,Police,1,0,4
+72.28,5000,38,79,Bachelor,A,Total Loss,Ambulance,1,0,16
+76.1,9000,48,87,High School,A,Minor Loss,Other,1,1,13
+122.95,6000,63,86,Bachelor,A,Minor Loss,Ambulance,0,0,13
+96.15,7000,54,31,Masters,A,Total Loss,Ambulance,1,0,0
+122.46,10000,34,70,Bachelor,A,Total Loss,Police,1,1,13
+134.59,3000,62,37,College,A,Minor Loss,Ambulance,1,0,10
+70.61,7000,26,101,Bachelor,A,Minor Loss,None,0,1,19
+109.65,3000,55,72,College,A,Total Loss,Ambulance,1,1,13
+111.15,5000,42,33,PhD,A,Major Loss,Other,1,1,22
+96.0,3000,49,46,High School,A,Total Loss,Other,1,1,7
+84.82,9000,52,101,Bachelor,A,Minor Loss,Ambulance,0,0,6
+86.62,8000,33,48,College,D,Minor Loss,Other,1,0,6
+98.44,1000,58,81,Bachelor,A,Minor Loss,Ambulance,1,1,4
+119.31,8000,58,8,Masters,A,Total Loss,Ambulance,0,0,10
+133.7,5000,36,62,College,A,Total Loss,Police,0,1,21
+71.36,5000,57,48,Bachelor,A,Major Loss,Police,0,1,22
+118.98,9000,28,12,High School,A,Major Loss,Police,0,0,4
+95.48,2000,53,13,High School,A,Minor Loss,Police,0,1,14
+90.86,8000,45,117,High School,A,Minor Loss,Police,0,1,21
+91.52,6000,44,34,Bachelor,A,Minor Loss,Ambulance,1,1,6
+139.55,1000,61,40,Bachelor,A,Total Loss,None,1,1,21
+132.97,1000,60,56,Bachelor,A,Minor Loss,Other,0,1,8
+86.06,2000,32,109,PhD,A,Total Loss,Ambulance,1,1,18
+127.41,7000,43,92,High School,A,Major Loss,Ambulance,1,1,20
+125.2,10000,41,40,High School,A,Major Loss,Police,1,0,14
+87.82,7000,46,116,High School,A,Major Loss,Police,1,1,14
+77.69,9000,41,8,Bachelor,A,Major Loss,Ambulance,1,1,16
+112.71,7000,51,38,PhD,A,Minor Loss,Ambulance,0,1,23
+115.17,1000,25,87,College,A,Minor Loss,Other,1,0,18
+70.64,8000,40,17,Bachelor,A,Minor Loss,Ambulance,0,1,0
+138.68,2000,32,26,College,A,Total Loss,None,0,1,7
+116.37,1000,39,112,Bachelor,A,Total Loss,Police,0,0,1
+125.25,10000,47,51,Bachelor,A,Total Loss,Police,0,1,14
+134.87,5000,26,22,PhD,D,Major Loss,Police,1,0,7
+89.13,10000,50,95,Masters,A,Major Loss,None,0,0,14
+91.73,4000,52,75,Bachelor,A,Total Loss,Ambulance,0,0,20
+102.17,1000,44,71,Bachelor,A,Minor Loss,None,0,1,4
+103.78,2000,36,55,College,A,Major Loss,Police,0,1,15
+101.08,3000,30,88,High School,A,Minor Loss,Police,1,0,5
+72.03,9000,31,7,Bachelor,A,Major Loss,Ambulance,0,1,21
+87.48,3000,61,82,Bachelor,A,Total Loss,Police,1,1,7
+77.94,4000,61,19,Masters,A,Total Loss,None,1,1,18
+90.34,1000,50,106,Bachelor,A,Major Loss,Ambulance,0,1,15
+89.61,9000,51,89,College,A,Major Loss,Police,0,1,14
+121.35,4000,35,39,Masters,A,Total Loss,Police,1,0,7
+116.11,5000,57,53,High School,A,Major Loss,Other,1,1,15
+110.84,6000,33,86,Bachelor,A,Major Loss,Ambulance,0,1,6
+84.18,9000,36,89,Bachelor,A,Major Loss,None,0,1,10
+120.95,4000,30,28,High School,A,Major Loss,Police,1,1,15
+97.24,2000,52,106,High School,A,Minor Loss,Other,1,1,0
+138.57,6000,55,69,Bachelor,A,Major Loss,Ambulance,1,1,1
+92.6,9000,36,45,Masters,A,Major Loss,Ambulance,1,0,10
+113.18,1000,45,51,Masters,A,Minor Loss,Ambulance,1,1,2
+96.04,2000,54,88,Bachelor,A,Major Loss,None,1,1,21
+87.98,8000,60,53,Bachelor,A,Minor Loss,Ambulance,1,1,2
+79.63,7000,26,119,Bachelor,A,Total Loss,Ambulance,0,1,17
+127.63,3000,33,99,MD,A,Total Loss,Other,0,1,1
+70.23,5000,29,45,Bachelor,A,Major Loss,Ambulance,1,0,15
+118.55,4000,64,91,Masters,A,Total Loss,None,1,0,7
+97.84,10000,38,12,High School,A,Total Loss,Police,1,0,8
+139.32,7000,58,81,Bachelor,A,Major Loss,Ambulance,0,1,9
+124.49,7000,54,64,High School,A,Total Loss,None,1,1,6
+81.98,7000,49,12,College,A,Major Loss,Ambulance,0,1,8
+122.38,2000,63,51,High School,A,Minor Loss,Ambulance,1,0,15
+118.55,8000,50,104,High School,A,Major Loss,Ambulance,1,1,21
+89.51,6000,56,102,Masters,A,Minor Loss,Ambulance,1,0,15
+90.68,5000,60,51,Bachelor,A,Minor Loss,Ambulance,1,0,5
+103.41,1000,38,101,College,A,Total Loss,Police,1,1,9
+128.93,5000,32,23,MD,A,Total Loss,Other,1,1,9
+79.2,7000,32,112,Bachelor,A,Major Loss,Police,1,0,0
+111.37,7000,57,93,MD,A,Major Loss,Ambulance,0,1,7
+74.47,1000,59,16,Bachelor,A,Major Loss,Police,1,1,9
+86.23,2000,63,89,College,A,Total Loss,Police,1,1,1
+94.43,1000,44,72,College,A,Minor Loss,Police,1,1,0
+126.07,5000,26,21,High School,A,Total Loss,Ambulance,1,1,15
+136.01,1000,55,12,Bachelor,A,Major Loss,Ambulance,1,1,17
+102.41,7000,38,62,High School,A,Major Loss,None,1,1,7
+135.28,10000,56,86,High School,A,Major Loss,Other,1,1,6
+84.23,7000,48,49,High School,A,Minor Loss,Ambulance,1,0,6
+75.24,10000,38,51,Bachelor,A,Major Loss,Police,1,0,6
+110.41,8000,45,108,Bachelor,A,Total Loss,Police,1,0,6
+115.12,4000,58,24,PhD,A,Major Loss,None,1,1,16
+119.88,8000,28,108,Bachelor,A,Major Loss,Other,1,1,3
+90.59,9000,38,70,Masters,A,Minor Loss,Ambulance,0,1,23
+83.42,5000,40,64,Bachelor,A,Minor Loss,None,1,0,22
+86.21,9000,60,7,Bachelor,A,Major Loss,None,1,1,14
+98.72,5000,47,68,PhD,A,Major Loss,Other,1,0,1
+134.86,3000,42,67,High School,A,Total Loss,Ambulance,1,1,3
+133.84,2000,44,84,Masters,A,Minor Loss,Ambulance,0,0,23
+83.49,8000,41,78,Bachelor,A,Minor Loss,Police,0,0,4
+102.77,7000,44,88,PhD,A,Major Loss,Ambulance,1,1,1
+129.48,4000,41,7,Bachelor,A,Total Loss,Ambulance,1,1,9
+86.65,4000,51,100,High School,A,Total Loss,Ambulance,1,1,3
+118.51,8000,42,86,High School,A,Minor Loss,Ambulance,1,1,11
+108.87,3000,61,67,High School,A,Minor Loss,Ambulance,1,1,8
+123.8,10000,29,63,College,A,Minor Loss,Other,1,1,7
+75.39,8000,54,47,Bachelor,A,Major Loss,Ambulance,1,1,10
+111.69,2000,50,63,College,A,Major Loss,Ambulance,1,1,11
+71.16,2000,34,25,Bachelor,A,Total Loss,Other,1,1,1
+95.22,5000,44,7,Bachelor,A,Total Loss,Police,1,1,20
+110.62,2000,61,93,Bachelor,A,Minor Loss,Police,1,0,22
+124.95,1000,49,57,Bachelor,A,Total Loss,Ambulance,1,0,3
+97.51,7000,50,52,Bachelor,A,Total Loss,Police,1,1,20
+87.4,5000,36,91,Bachelor,A,Minor Loss,None,0,0,4
+94.74,2000,48,30,College,A,Total Loss,Police,1,1,1
+70.86,10000,54,49,MD,A,Total Loss,None,0,1,6
+123.1,7000,55,23,Bachelor,A,Minor Loss,Other,1,0,0
+87.2,2000,36,91,High School,A,Total Loss,None,0,1,17
+101.28,8000,54,66,High School,A,Minor Loss,Ambulance,1,1,2
+74.0,4000,58,52,Bachelor,A,Major Loss,Ambulance,1,1,17
+99.28,4000,33,83,Masters,A,Major Loss,Ambulance,1,1,7
+93.42,7000,43,109,College,A,Total Loss,Police,0,0,5
+136.91,1000,36,32,College,A,Major Loss,Other,0,1,3
+102.58,4000,37,114,Bachelor,A,Major Loss,Ambulance,1,1,4
+99.34,9000,44,91,High School,D,Minor Loss,None,1,1,18
+105.91,2000,28,32,Masters,A,Total Loss,Other,1,0,17
+132.06,6000,33,32,Bachelor,A,Total Loss,None,1,1,21
+130.96,8000,60,95,MD,A,Minor Loss,Ambulance,1,1,19
+86.4,6000,54,30,High School,A,Total Loss,None,0,1,10
+126.93,8000,58,52,Bachelor,A,Major Loss,Ambulance,1,0,6
+138.56,7000,31,102,PhD,A,Major Loss,Police,1,1,23
+102.09,7000,58,29,College,A,Major Loss,None,0,1,5
+89.25,2000,52,105,High School,A,Minor Loss,Ambulance,0,1,17
+71.15,2000,64,66,Masters,D,Major Loss,Other,1,1,17
+100.2,1000,40,60,Bachelor,A,Minor Loss,Ambulance,1,0,12
+132.05,10000,34,88,Bachelor,A,Total Loss,Ambulance,1,1,14
+94.5,5000,56,77,High School,A,Major Loss,Police,1,1,14
+85.33,1000,26,94,Bachelor,A,Minor Loss,None,1,1,18
+73.94,3000,33,100,High School,A,Minor Loss,None,1,0,23
+126.59,10000,55,89,Bachelor,A,Total Loss,None,1,0,6
+137.35,4000,58,51,Bachelor,A,Minor Loss,Ambulance,1,1,3
+73.53,7000,44,58,Masters,A,Major Loss,Ambulance,0,1,15
+139.59,8000,52,19,Bachelor,A,Major Loss,Ambulance,1,1,17
+78.97,10000,57,105,High School,A,Total Loss,Ambulance,1,0,18
+97.78,3000,35,110,High School,A,Major Loss,Police,0,1,18
+136.02,7000,38,99,Bachelor,A,Minor Loss,Ambulance,0,0,6
+127.17,6000,36,90,MD,A,Minor Loss,None,0,1,12
+131.03,3000,60,18,Bachelor,A,Minor Loss,Police,1,1,4
+100.46,7000,60,22,Bachelor,D,Minor Loss,None,0,1,13
+102.5,3000,44,54,Bachelor,A,Major Loss,Ambulance,0,1,22
+93.54,6000,27,107,High School,A,Total Loss,Ambulance,1,1,0
+118.55,1000,53,59,Bachelor,A,Total Loss,Ambulance,0,0,23
+110.0,10000,42,23,High School,A,Total Loss,Other,1,1,11
+75.68,7000,46,35,MD,A,Total Loss,Other,1,1,18
+109.85,3000,49,21,Bachelor,A,Minor Loss,Ambulance,1,0,18
+97.34,7000,64,30,MD,A,Total Loss,Ambulance,0,1,16
+90.93,2000,47,38,MD,A,Minor Loss,Ambulance,0,1,11
+73.89,7000,36,27,College,A,Major Loss,Police,0,1,3
+138.98,4000,49,58,Masters,A,Major Loss,Police,0,0,21
+103.18,9000,27,34,PhD,A,Total Loss,None,0,1,20
+118.79,8000,49,116,High School,A,Minor Loss,None,1,1,20
+122.43,2000,44,105,PhD,A,Minor Loss,Ambulance,1,1,8
+71.96,4000,38,101,Bachelor,A,Major Loss,Ambulance,0,0,17
+82.1,8000,59,72,PhD,A,Total Loss,Police,1,0,10
+84.23,10000,34,101,Bachelor,A,Total Loss,Ambulance,0,0,0
+76.94,1000,59,74,High School,A,Major Loss,Other,0,1,23
+136.92,8000,44,101,Bachelor,A,Total Loss,Ambulance,0,1,17
+111.7,3000,30,74,High School,A,Total Loss,Ambulance,0,0,2
+103.72,3000,55,75,High School,A,Total Loss,Ambulance,1,1,0
+134.48,3000,54,20,High School,A,Total Loss,None,1,0,5
+123.26,2000,37,48,PhD,A,Minor Loss,Other,1,1,4
+111.62,6000,33,96,Bachelor,A,Major Loss,Ambulance,1,1,15
+96.01,4000,32,24,Bachelor,A,Major Loss,Ambulance,1,1,15
+93.88,10000,26,10,Masters,A,Major Loss,Police,1,1,11
+123.47,4000,52,70,Bachelor,A,Major Loss,Ambulance,0,1,15
+101.9,7000,59,99,Bachelor,A,Total Loss,Police,1,0,1
+126.7,8000,57,41,College,A,Minor Loss,Police,1,1,10
+88.82,5000,41,110,MD,A,Minor Loss,Other,0,0,14
+81.37,2000,34,46,Bachelor,A,Minor Loss,None,0,1,22
+119.78,2000,38,80,Bachelor,A,Total Loss,Police,1,1,4
+117.06,6000,48,27,Masters,A,Minor Loss,Police,1,1,18
+105.34,1000,44,79,Masters,A,Total Loss,Police,1,1,3
+117.74,10000,40,11,Masters,A,Total Loss,Ambulance,1,1,11
+85.32,6000,54,73,PhD,A,Major Loss,None,1,1,14
+111.36,8000,55,19,Bachelor,A,Total Loss,Ambulance,1,1,18
+105.45,8000,29,69,Bachelor,A,Minor Loss,None,1,1,1
+118.57,8000,50,48,High School,A,Minor Loss,Ambulance,1,1,21
+138.94,7000,48,58,Masters,A,Total Loss,None,1,0,17
+133.23,2000,29,110,Bachelor,D,Minor Loss,Police,1,1,3
+116.57,3000,56,93,Masters,A,Major Loss,None,0,1,8
+101.46,10000,39,52,Masters,A,Major Loss,None,1,1,3
+97.43,10000,38,72,College,A,Major Loss,Ambulance,0,1,2
+94.84,2000,45,11,PhD,A,Major Loss,None,0,1,1
+115.42,2000,37,75,High School,A,Total Loss,None,1,1,4
+74.73,10000,27,15,Bachelor,A,Total Loss,Police,1,1,0
+129.48,8000,25,24,High School,A,Total Loss,None,0,1,14
+135.99,9000,62,80,Bachelor,A,Total Loss,Police,1,1,11
+133.84,5000,48,94,Bachelor,A,Minor Loss,Police,1,0,20
+86.59,4000,56,8,High School,A,Major Loss,Police,1,1,16
+89.08,10000,64,16,College,A,Major Loss,None,0,0,0
+85.07,5000,60,85,High School,A,Total Loss,None,0,1,8
+107.08,8000,64,91,High School,A,Total Loss,Police,1,0,6
+123.44,2000,37,61,Bachelor,A,Total Loss,Ambulance,0,1,21
+72.06,1000,32,109,High School,A,Major Loss,Police,0,1,18
+89.46,6000,26,78,Bachelor,A,Total Loss,None,0,1,13
+82.86,7000,58,25,High School,A,Major Loss,Ambulance,1,1,20
+120.2,9000,43,20,High School,A,Major Loss,Other,0,1,5
+132.77,10000,30,34,College,A,Minor Loss,Ambulance,0,1,22
+70.2,10000,37,113,MD,A,Total Loss,None,0,1,23
+138.36,10000,54,86,Masters,A,Minor Loss,Other,0,1,2
+73.81,2000,33,18,Bachelor,A,Total Loss,Ambulance,0,1,1
+128.41,9000,50,96,Bachelor,A,Major Loss,Police,1,1,12
+92.87,7000,36,90,PhD,A,Total Loss,Ambulance,1,1,23
+124.08,4000,61,31,Bachelor,A,Major Loss,Ambulance,1,0,4
+86.75,9000,60,38,High School,A,Minor Loss,Police,0,1,16
+87.78,4000,26,33,High School,A,Major Loss,Ambulance,0,0,13
+93.16,8000,36,32,MD,A,Total Loss,Police,1,1,10
+88.81,2000,44,41,Bachelor,A,Total Loss,Police,0,1,8
+91.55,4000,57,84,MD,A,Minor Loss,Ambulance,0,0,5
+100.89,3000,54,74,College,A,Major Loss,Ambulance,0,1,5
+119.02,4000,61,55,Bachelor,A,Major Loss,Other,1,1,19
+80.44,3000,32,84,Bachelor,A,Major Loss,Ambulance,1,1,14
+76.35,7000,47,52,College,A,Major Loss,Other,1,1,4
+120.12,9000,52,88,Bachelor,A,Minor Loss,Ambulance,0,1,8
+91.42,5000,37,85,Masters,A,Total Loss,Ambulance,1,1,22
+73.2,2000,61,29,College,A,Major Loss,None,1,1,8
+98.9,1000,35,88,High School,A,Minor Loss,Other,0,0,10
+72.87,8000,59,119,Masters,A,Major Loss,Ambulance,1,1,15
+111.97,4000,33,48,High School,A,Total Loss,None,1,1,1
+100.9,2000,41,115,High School,A,Major Loss,Police,0,1,15
+112.24,3000,26,53,High School,A,Minor Loss,Other,1,1,3
+112.77,4000,38,28,Masters,A,Total Loss,Ambulance,1,1,6
+118.38,7000,43,49,High School,A,Major Loss,Ambulance,1,1,10
+72.96,7000,41,108,MD,D,Total Loss,None,1,1,14
+115.6,10000,48,108,College,A,Minor Loss,Ambulance,1,1,12
+134.69,4000,34,60,MD,A,Total Loss,Ambulance,1,1,5
+70.28,9000,28,8,Bachelor,A,Minor Loss,Police,1,0,20
+121.84,7000,46,52,Bachelor,A,Minor Loss,Ambulance,1,1,17
+105.75,1000,45,98,PhD,A,Minor Loss,Ambulance,1,1,0
+113.46,2000,61,44,Bachelor,A,Total Loss,Ambulance,0,1,6

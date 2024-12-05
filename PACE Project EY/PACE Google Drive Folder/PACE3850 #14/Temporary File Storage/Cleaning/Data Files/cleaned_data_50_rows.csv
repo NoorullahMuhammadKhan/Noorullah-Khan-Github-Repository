@@ -1,0 +1,51 @@
+TimeAsCustomer,DriverAge,InsuranceAccess,InsurancePremium,DriverGender,EducationLevel,AccidentType,IncidentSeverity,AuthoritiesInvolved,IncidentTime,NumVehiclesInvolved,NumBodilyInjuries,PoliceReportBool,TotalClaimAmount,VehicleYear,Fraud,VehicleAge,DriverExperience,LicenceType
+328,48,1000,1406.91,0,MD,Single Vehicle Collision,Major Damage,Police,5,1,1,1,71610,2004,1,11,28,Full
+228,42,2000,1197.22,0,MD,Vehicle Theft,Minor Damage,Police,8,1,0,0,5070,2007,1,8,21,Full
+134,29,2000,1413.14,1,PhD,Multi-vehicle Collision,Minor Damage,Police,7,3,2,0,34650,2007,0,8,13,Full
+256,41,2000,1415.74,1,PhD,Single Vehicle Collision,Major Damage,Police,5,1,1,0,63400,2014,1,1,22,Full
+228,44,1000,1583.91,0,Associate,Vehicle Theft,Minor Damage,,20,1,0,0,6500,2009,0,6,25,Full
+256,39,1000,1351.1,1,PhD,Multi-vehicle Collision,Major Damage,Fire,19,3,0,0,64100,2003,1,12,20,Full
+137,34,1000,1333.35,0,PhD,Multi-vehicle Collision,Minor Damage,Police,0,3,0,0,78650,2012,0,3,17,Full
+165,37,1000,1137.03,0,Associate,Multi-vehicle Collision,Total Loss,Police,23,3,2,1,51590,2015,0,0,18,Full
+27,33,500,1442.99,1,PhD,Single Vehicle Collision,Total Loss,Police,21,1,1,1,27700,2012,0,3,12,Full
+212,42,500,1315.68,0,PhD,Single Vehicle Collision,Total Loss,Other,14,1,2,0,42300,1996,0,19,24,Full
+235,42,500,1253.12,1,Masters,Single Vehicle Collision,Total Loss,Police,22,1,2,0,87010,2002,0,13,22,Full
+447,61,2000,1137.16,1,High School,Multi-vehicle Collision,Major Damage,Fire,21,3,1,1,114920,2006,0,9,39,Full
+60,23,500,1215.36,0,MD,Single Vehicle Collision,Total Loss,Ambulance,9,1,1,0,56520,2000,0,15,7,Full
+121,34,1000,936.61,1,MD,Parked Car,Minor Damage,,5,1,1,0,7280,2010,0,5,18,Full
+180,38,2000,1301.13,1,College,Single Vehicle Collision,Total Loss,Police,12,1,0,1,46200,2003,1,12,18,Full
+473,58,2000,1131.4,1,MD,Multi-vehicle Collision,Major Damage,Other,12,4,0,0,63120,1999,1,16,40,Full
+70,26,1000,1199.44,0,College,Multi-vehicle Collision,Major Damage,Other,0,3,1,1,52110,2012,0,3,9,Full
+140,31,500,708.64,0,High School,Single Vehicle Collision,Total Loss,Police,9,1,0,1,77880,2015,0,0,9,Full
+160,37,500,1374.22,1,MD,Single Vehicle Collision,Total Loss,Other,19,1,1,0,72930,2015,0,0,15,Full
+196,39,2000,1475.73,1,High School,Multi-vehicle Collision,Major Damage,Police,8,3,2,0,60400,2014,0,1,23,Full
+460,62,1000,1187.96,0,JD,Multi-vehicle Collision,Minor Damage,Police,20,3,1,0,47160,2011,0,4,45,Full
+217,41,2000,875.15,1,Associate,Multi-vehicle Collision,Total Loss,Police,15,3,1,0,37840,1996,0,19,20,Full
+370,55,2000,972.18,0,High School,Multi-vehicle Collision,Major Damage,Ambulance,20,3,0,1,71520,2000,1,15,38,Full
+413,55,2000,1268.79,0,MD,Single Vehicle Collision,Total Loss,Ambulance,15,1,2,0,98160,2011,1,4,34,Full
+237,40,1000,883.31,0,College,Single Vehicle Collision,Minor Damage,Other,6,1,1,0,77880,2005,0,10,24,Full
+8,35,2000,1266.92,0,Masters,Multi-vehicle Collision,Major Damage,Other,16,3,1,1,71500,2006,1,9,18,Full
+257,43,2000,1322.1,0,High School,Parked Car,Minor Damage,Police,4,1,1,1,9020,2005,0,10,23,Full
+202,34,500,848.07,0,JD,Vehicle Theft,Minor Damage,,5,1,2,0,5720,2003,1,12,15,Full
+224,40,2000,1291.7,1,JD,Single Vehicle Collision,Minor Damage,Other,21,1,1,1,69840,2009,0,6,24,Full
+241,45,2000,1104.5,1,PhD,Single Vehicle Collision,Minor Damage,Police,5,1,2,0,91650,2011,0,4,26,Full
+64,25,1000,954.16,0,Masters,Multi-vehicle Collision,Major Damage,Ambulance,22,4,0,0,75600,2005,0,10,4,P2
+166,37,2000,1337.28,0,JD,Multi-vehicle Collision,Major Damage,Police,10,3,2,0,67140,2006,1,9,15,Full
+155,35,1000,1088.34,1,Associate,Multi-vehicle Collision,Total Loss,Police,16,3,2,0,29790,2008,0,7,19,Full
+114,30,1000,1558.29,0,High School,Multi-vehicle Collision,Major Damage,Ambulance,1,3,1,0,77110,2015,0,0,12,Full
+149,37,500,1415.68,0,PhD,Single Vehicle Collision,Total Loss,Fire,17,1,0,1,64800,1999,0,16,18,Full
+147,33,1000,1334.15,0,High School,Single Vehicle Collision,Major Damage,Other,15,1,2,1,53100,1995,1,20,17,Full
+62,28,1000,988.45,1,Masters,Single Vehicle Collision,Total Loss,Police,3,1,1,1,60200,2004,1,11,11,Full
+289,49,2000,1222.48,1,JD,Parked Car,Minor Damage,,16,1,1,1,5330,2001,0,14,30,Full
+431,54,2000,1155.55,1,MD,Multi-vehicle Collision,Major Damage,Police,4,3,2,0,62300,2007,0,8,33,Full
+199,37,500,1262.08,0,JD,Single Vehicle Collision,Major Damage,Ambulance,4,1,0,0,60170,2011,1,4,18,Full
+79,26,500,1451.62,0,Associate,Single Vehicle Collision,Minor Damage,Ambulance,19,1,2,0,40000,2010,0,5,7,Full
+116,34,500,1737.66,0,Associate,Single Vehicle Collision,Major Damage,Police,1,1,1,0,97080,2001,1,14,12,Full
+37,23,500,1475.93,1,College,Multi-vehicle Collision,Minor Damage,Other,17,3,1,0,51660,2010,0,5,7,Full
+106,30,500,538.17,1,PhD,Single Vehicle Collision,Total Loss,Other,23,1,2,0,51120,2005,0,10,13,Full
+269,44,2000,1081.08,0,JD,Single Vehicle Collision,Minor Damage,Other,14,1,0,0,56400,2014,0,1,27,Full
+265,40,1000,1454.43,1,MD,Multi-vehicle Collision,Total Loss,Other,17,3,2,0,55120,2002,0,13,23,Full
+163,33,500,1240.47,1,Associate,Multi-vehicle Collision,Total Loss,Fire,11,3,1,0,77110,2014,0,1,17,Full
+355,47,2000,1273.7,0,College,Multi-vehicle Collision,Major Damage,Fire,19,3,2,0,62800,2003,1,12,29,Full
+175,34,1000,1123.87,1,PhD,Vehicle Theft,Trivial Damage,Police,5,1,2,1,7290,1995,0,20,14,Full
+192,35,1000,1245.89,1,Masters,Single Vehicle Collision,Total Loss,Other,19,1,0,0,76600,2000,0,15,16,Full
